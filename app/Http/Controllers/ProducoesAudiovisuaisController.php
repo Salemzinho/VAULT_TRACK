@@ -46,7 +46,7 @@ class ProducoesAudiovisuaisController extends Controller
             'diretor' => 'nullable|string|max:255',
             'temporada' => 'nullable|integer|min:1',
             'quantidade_de_episodios' => 'nullable|integer|min:1',
-            'banner' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+            #'banner' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
             'review' => 'nullable|string',
             'review_link_imdb' => 'nullable|url',
             'review_link_letterbox' => 'nullable|url',
@@ -101,13 +101,14 @@ class ProducoesAudiovisuaisController extends Controller
             'diretor' => 'nullable|string|max:255',
             'temporada' => 'nullable|integer|min:1',
             'quantidade_de_episodios' => 'nullable|integer|min:1',
-            'banner' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+            #'banner' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
             'review' => 'nullable|string',
             'nota_pessoal' => 'nullable|integer|min:1|max:10',
         ]);
 
         $producao = ProducaoAudiovisual::findOrFail($id);
 
+        $banner_path = null;
         if($request->hasFile('banner')) {
             $banner = $request->file('banner');
             $extension = $banner->getClientOriginalExtension();
@@ -124,7 +125,10 @@ class ProducoesAudiovisuaisController extends Controller
         $producao->diretor = $request->input('diretor');
         $producao->temporada = $request->input('temporada');
         $producao->quantidade_de_episodios = $request->input('quantidade_de_episodios');
+        $producao->banner = $banner_path;
         $producao->review = $request->input('review');
+        $producao->review_link_imdb = $request->input('review_link_imdb');
+        $producao->review_link_letterbox = $request->input('review_link_letterbox');
         $producao->nota_pessoal = $request->input('nota_pessoal');
         $producao->save();
 
@@ -143,5 +147,4 @@ class ProducoesAudiovisuaisController extends Controller
 
         return redirect()->route('producoes.index')->with('success', 'Produção Audiovisual excluída com sucesso!');
     }
-
 }

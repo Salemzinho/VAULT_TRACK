@@ -23,6 +23,7 @@ Route::delete('/producoes/{id}', [ProducoesAudiovisuaisController::class, 'destr
 
 // Games
 Route::get('/games', [GameController::class, 'index'])->name('games.index');
+Route::get('/games/view/{id}', [GameController::class, 'view'])->name('games.view');
 Route::get('/games/create', [GameController::class, 'create'])->name('games.create');
 Route::post('/games', [GameController::class, 'store'])->name('games.store');
 Route::get('/games/{id}/edit', [GameController::class, 'edit'])->name('games.edit');
@@ -32,6 +33,7 @@ Route::delete('/games/{id}', [GameController::class, 'destroy'])->name('games.de
 /*
 // Literatura
 Route::get('/literatura', [LiteraturaController::class, 'index'])->name('literatura.index');
+Route::get('/literatura/view/{id}', [LiteraturaController::class, 'view'])->name('literatura.view');
 Route::get('/literatura/create', [LiteraturaController::class, 'create'])->name('literatura.create');
 Route::post('/literatura', [LiteraturaController::class, 'store'])->name('literatura.store');
 Route::get('/literatura/{id}/edit', [LiteraturaController::class, 'edit'])->name('literatura.edit');
@@ -41,6 +43,7 @@ Route::delete('/literatura/{id}', [LiteraturaController::class, 'destroy'])->nam
 
 // Exercícios
 Route::get('/exercicios', [ExercicioController::class, 'index'])->name('exercicios.index');
+Route::get('/exercicios/view/{id}', [ExerciciosController::class, 'view'])->name('exercicios.view');
 Route::get('/exercicios/create', [ExercicioController::class, 'create'])->name('exercicios.create');
 Route::post('/exercicios', [ExercicioController::class, 'store'])->name('exercicios.store');
 Route::get('/exercicios/{id}/edit', [ExercicioController::class, 'edit'])->name('exercicios.edit');
@@ -50,6 +53,7 @@ Route::delete('/exercicios/{id}', [ExercicioController::class, 'destroy'])->name
 
 // Consumo de Água
 Route::get('/consumo-agua', [ConsumoAguaController::class, 'index'])->name('agua.index');
+Route::get('/consumo-agua/view/{id}', [ConsumoAguaController::class, 'view'])->name('consumo-agua.view');
 Route::get('/consumo-agua/create', [ConsumoAguaController::class, 'create'])->name('agua.create');
 Route::post('/consumo-agua', [ConsumoAguaController::class, 'store'])->name('agua.store');
 Route::get('/consumo-agua/{id}/edit', [ConsumoAguaController::class, 'edit'])->name('agua.edit');
@@ -59,6 +63,7 @@ Route::delete('/consumo-agua/{id}', [ConsumoAguaController::class, 'destroy'])->
 
 // Visitas Gastronômicas
 Route::get('/visitas', [VisitaGastronomicaController::class, 'index'])->name('visitas.index');
+Route::get('/visitas/view/{id}', [VisitaGastronomicaController::class, 'view'])->name('visitas.view');
 Route::get('/visitas/create', [VisitaGastronomicaController::class, 'create'])->name('visitas.create');
 Route::post('/visitas', [VisitaGastronomicaController::class, 'store'])->name('visitas.store');
 Route::get('/visitas/{id}/edit', [VisitaGastronomicaController::class, 'edit'])->name('visitas.edit');

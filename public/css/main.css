@@ -11,16 +11,24 @@ body {
     color: #f8f9fa;
 }
 
+.font-weight-semibold {
+    font-weight: 600 !important;
+}
+
+.bg-bluish-purple {
+    background-color: #3d3d5123 !important;
+}
+
 .sidebar {
     position: fixed;
     top: 0;
     left: 0;
-    height: 98vh;
+    height: 97vh;
     width: 240px;
     background: linear-gradient(180deg, #2a2a38, #3d3d51);
     padding: 1.5rem;
     border-radius: 10px;
-    margin: 10px;
+    margin: 15px;
 }
 
 .sidebar .nav-link {
@@ -38,7 +46,7 @@ body {
 
 .main-content {
     margin-left: 260px;
-    padding: 2rem;
+    padding: 1rem;
 }
 
 .br-10 {

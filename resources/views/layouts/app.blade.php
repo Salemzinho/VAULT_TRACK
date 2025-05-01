@@ -17,15 +17,15 @@
     </a>
     <ul class="nav flex-column">
         <li class="nav-item">
-            <a class="nav-link" href="{{ route('home.index') }}">Início</a>
+            <a class="nav-link" href="{{ route('home.index') }}">🏠 Início</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="{{ route('producoes.index') }}">Produções Audiovisuais</a>
+            <a class="nav-link" href="{{ route('producoes.index') }}">🎬 Produções Audiovisuais</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{{ route('games.index') }}">🎮 Games</a>
         </li>
 <!--
-        <li class="nav-item">
-            <a class="nav-link" href="{{-- route('games.index') --}}">Games</a>
-        </li>
         <li class="nav-item">
             <a class="nav-link" href="{{-- route('literatura.index') --}}">Literatura</a>
         </li>

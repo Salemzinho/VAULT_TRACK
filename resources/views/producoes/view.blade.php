@@ -1,9 +1,10 @@
 @extends('layouts.app')
 @section('title', 'VaultTrack - Produções Audiovisuais')
 @section('content')
-<h1>Produções Audiovisuais</h1>
-<p>Aqui está seu registro de "{{ $producao->titulo }}" ({{ $producao->data_de_lancamento }})</p>
-<hr class="bg-light mt-5">
+<div class="text-left bg-bluish-purple br-10 p-3">
+    <h1 class="font-weight-semibold">🎬 Produções Audiovisuais</h1>
+    <p class="lead text-muted mt-3 m-0">Aqui está seu registro de "{{ $producao->titulo }}" ({{ $producao->data_de_lancamento }})</p>
+</div>
 <div class="row mt-5">
     <div class="col-12 col-lg-4 col-md-4">
         <a href="{{ route('producoes.index') }}">
@@ -15,7 +16,7 @@
         </a>
     </div>
 </div>
-<div class="row mt-5">
+<div class="row mt-3">
     <div class="col-12 mb-3">
         <div class="card card-style shadow-sm border-0 rounded-lg">
             <div class="card-body d-flex justify-content-between align-items-start">
@@ -40,7 +41,7 @@
                         @if($producao->nota_pessoal)
                             • ⭐ {{ $producao->nota_pessoal }}
                         @endif
-                        @if($producao->nota_pessoal)
+                        @if($producao->review_link_imdb)
                             • <a href="{{ $producao->review_link_imdb }}" target="_blank"><img src="/img/imdb-logo.png" width="36" height="16" alt="Logo do IMDb" class="br-10"></a>
                         @endif
                     </h6>

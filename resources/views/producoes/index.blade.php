@@ -1,9 +1,10 @@
 @extends('layouts.app')
 @section('title', 'VaultTrack - Produções Audiovisuais')
 @section('content')
-<h1>Produções Audiovisuais</h1>
-<p>Escolha uma das opções abaixo para acessar os registros.</p>
-<hr class="bg-light mt-5">
+<div class="text-left bg-bluish-purple br-10 p-3">
+    <h1 class="font-weight-semibold">🎬 Produções Audiovisuais</h1>
+    <p class="lead text-muted mt-3 m-0"></p>
+</div>
 <div class="row mt-5">
     <div class="col-12 col-lg-4 col-md-4">
         <a href="{{ route('producoes.create') }}">
@@ -15,14 +16,14 @@
         </a>
     </div>
 </div>
-<div class="row mt-5">
+@if(session('success'))
+<div class="alert alert-success" role="alert">
+    {{ session('success') }}
+</div>
+@endif
+<div class="row mt-3">
     @foreach($producoes as $producao)
     <div class="col-10 mb-3">
-        @if(session('success'))
-        <div class="alert alert-success" role="alert">
-            {{ session('success') }}
-        </div>
-        @endif
         <a href="{{ route('producoes.view', $producao->id) }}">
             <div class="card card-style shadow-sm border-0 rounded-lg">
                 <div class="card-body d-flex justify-content-between align-items-start">
@@ -44,7 +45,7 @@
                             @if($producao->nota_pessoal)
                                  • ⭐ {{ $producao->nota_pessoal }}
                             @endif
-                            @if($producao->nota_pessoal)
+                            @if($producao->review_link_imdb)
                                  • <img src="/img/imdb-logo.png" width="36" height="16" alt="Logo do IMDb" class="br-10">
                             @endif
                         </p>

@@ -1,9 +1,10 @@
 @extends('layouts.app')
-@section('title', 'VaultTrack - Editar Produção Audiovisual')
+@section('title', 'VaultTrack - Produções Audiovisuais')
 @section('content')
-<h1>Editar Produção Audiovisual</h1>
-<p>Preencha o formulário abaixo para atualizar os dados da produção audiovisual.</p>
-<hr class="bg-light mt-5">
+<div class="text-left bg-bluish-purple br-10 p-3">
+    <h1 class="font-weight-semibold">🎬 Produções Audiovisuais</h1>
+    <p class="lead text-muted mt-3 m-0">Preencha o formulário abaixo para editar uma nova produção audiovisual.</p>
+</div>
 <div class="row mt-5">
     <div class="col-12 col-lg-4 col-md-4">
         <a href="{{ route('producoes.index') }}">
@@ -18,7 +19,7 @@
 <form action="{{ route('producoes.update', $producao->id) }}" method="POST" enctype="multipart/form-data">
     @csrf
     @method('PUT')
-    <div class="card bg-transparent border-white mt-5 br-10">
+    <div class="card bg-bluish-purple mt-3 br-10">
         <div class="card-body">
             @if(session('success'))
             <div class="alert alert-success" role="alert">
