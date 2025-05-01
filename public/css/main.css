@@ -1,0 +1,70 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+body {
+    background-color: #1c1c2e;
+    color: #f8f9fa;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 98vh;
+    width: 240px;
+    background: linear-gradient(180deg, #2a2a38, #3d3d51);
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.sidebar .nav-link {
+    color: #f8f9fa;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    transition: all 0.2s;
+    border-radius: 0.375rem;
+}
+
+.sidebar .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 12px;
+}
+
+.main-content {
+    margin-left: 260px;
+    padding: 2rem;
+}
+
+.br-10 {
+    border-radius: 10px !important;
+}
+
+.card-style {
+    background: linear-gradient(135deg, rgba(39, 39, 58, 0.8), rgba(72, 72, 99, 0.8));
+    color: #f8f9fa;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;
+}
+
+.card-style:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.btn-outline-light {
+    border: 1px solid #fff;
+    color: #fff;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
