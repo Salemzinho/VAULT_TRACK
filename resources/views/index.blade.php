@@ -1,30 +1,32 @@
 @extends('layouts.app')
 @section('title', 'VaultTrack')
 @section('content')
-<div class="text-left bg-bluish-purple br-10 p-3">
-    <h1 class="font-weight-semibold">🎉 Bem-vindo ao VaultTrack!</h1>
-    <p class="lead text-muted mt-3 m-0">Organize e acompanhe seus registros cotidianos.</p>
-</div>
-<div class="row mt-5">
-    <div class="col-md-4">
-        <a href="{{ route('producoes.index') }}">
-            <div class="card card-style mb-4 shadow-sm border-0 rounded-lg br-10">
-                <div class="card-body"> 
-                    <h5 class="card-title">🎬 Produções Audiovisuais</h5>
-                    <p class="card-text small">Registre suas produções audiovisuais e veja suas reviews.</p>
-                </div>
-            </div>
-        </a>
+<div class="container">
+    <div class="text-left bg-bluish-purple br-10 p-3">
+        <h1 class="font-weight-semibold">🎉 Bem-vindo ao VaultTrack!</h1>
+        <p class="lead text-muted mt-3 m-0">Organize e acompanhe seus registros cotidianos.</p>
     </div>
-    <div class="col-md-4">
-        <a href="{{ route('games.index') }}">
-            <div class="card card-style mb-4 shadow-sm border-0 rounded-lg br-10">
-                <div class="card-body"> 
-                    <h5 class="card-title">🎮 Games</h5>
-                    <p class="card-text small">Registre seus games finalizados e veja suas reviews.</p>
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <a href="{{ route('producoes.index') }}">
+                <div class="card card-style mb-4 shadow-sm border-0 rounded-lg br-10">
+                    <div class="card-body"> 
+                        <h5 class="card-title">🎬 Produções Audiovisuais</h5>
+                        <p class="card-text small">Registre suas produções audiovisuais e veja suas reviews.</p>
+                    </div>
                 </div>
-            </div>
-        </a>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="{{ route('games.index') }}">
+                <div class="card card-style mb-4 shadow-sm border-0 rounded-lg br-10">
+                    <div class="card-body"> 
+                        <h5 class="card-title">🎮 Games</h5>
+                        <p class="card-text small">Registre seus games finalizados e veja suas reviews.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
     </div>
 </div>
 @endsection
