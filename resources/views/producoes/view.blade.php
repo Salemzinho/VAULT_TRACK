@@ -18,13 +18,13 @@
 </div>
 <div class="row mt-3">
     <div class="col-12 mb-3">
-        <div class="card card-style shadow-sm border-0 rounded-lg">
+        <div class="card bg-bluish-purple shadow-sm border-0 rounded-lg">
             <div class="card-body d-flex justify-content-between align-items-start">
                 <div class="col-4">
-                    <img src="{{ $producao->banner }}" class="w-100" alt="Produções Audiovisuais" class="br-10">
+                    <img src="{{ $producao->banner }}" class="w-100 br-10" alt="Produções Audiovisuais">
                 </div>
                 <div class="col-8 text-container">
-                    <h4 class="card-title">
+                    <h4 class="card-title font-weight-semibold">
                         {{ $producao->titulo }} ({{ $producao->data_de_lancamento }}),
                         @if($producao->diretor)
                             <i class="text-muted">dir. {{ $producao->diretor }}</i>

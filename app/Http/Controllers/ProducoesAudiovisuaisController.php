@@ -71,7 +71,6 @@ class ProducoesAudiovisuaisController extends Controller
         $producao->diretor = $request->input('diretor');
         $producao->temporada = $request->input('temporada');
         $producao->quantidade_de_episodios = $request->input('quantidade_de_episodios');
-        $producao->banner = $banner_path;
         $producao->review = $request->input('review');
         $producao->review_link_imdb = $request->input('review_link_imdb');
         $producao->review_link_letterbox = $request->input('review_link_letterbox');
@@ -125,7 +124,6 @@ class ProducoesAudiovisuaisController extends Controller
         $producao->diretor = $request->input('diretor');
         $producao->temporada = $request->input('temporada');
         $producao->quantidade_de_episodios = $request->input('quantidade_de_episodios');
-        $producao->banner = $banner_path;
         $producao->review = $request->input('review');
         $producao->review_link_imdb = $request->input('review_link_imdb');
         $producao->review_link_letterbox = $request->input('review_link_letterbox');

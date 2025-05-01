@@ -3,7 +3,7 @@
 @section('content')
 <div class="text-left bg-bluish-purple br-10 p-3">
     <h1 class="font-weight-semibold">🎬 Produções Audiovisuais</h1>
-    <p class="lead text-muted mt-3 m-0"></p>
+    <p class="lead text-muted mt-3 m-0">Escolha uma das opções abaixo para acessar os registros.</p>
 </div>
 <div class="row mt-5">
     <div class="col-12 col-lg-4 col-md-4">
@@ -28,7 +28,7 @@
             <div class="card card-style shadow-sm border-0 rounded-lg">
                 <div class="card-body d-flex justify-content-between align-items-start">
                     <div class="text-container">
-                        <h6 class="card-title">
+                        <h6 class="card-title font-weight-semibold">
                             {{ $producao->titulo }} ({{ $producao->data_de_lancamento }}),
                             @if($producao->diretor)
                                 <i class="text-muted">dir. {{ $producao->diretor }}</i>
@@ -51,7 +51,7 @@
                         </p>
                     </div>
                     @if($producao->banner)
-                        <img src="{{ $producao->banner }}" class="img-fluid br-10" alt="{{ $producao->titulo }}" style="max-width: 34px;">
+                        <img src="{{ $producao->banner }}" class="img-fluid rounded" alt="{{ $producao->titulo }}" style="max-width: 34px;">
                     @endif
                 </div>
             </div>

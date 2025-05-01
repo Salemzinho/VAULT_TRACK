@@ -16,15 +16,15 @@
         </a>
     </div>
 </div>
-<div class="row mt-5">
+<div class="row mt-3">
     <div class="col-12 mb-3">
-        <div class="card card-style shadow-sm border-0 rounded-lg">
+        <div class="card bg-bluish-purple shadow-sm border-0 rounded-lg">
             <div class="card-body d-flex justify-content-between align-items-start">
                 <div class="col-4">
-                    <img src="{{ $game->banner }}" class="w-100" alt="Banner atual do game" class="br-10">
+                    <img src="{{ $game->banner }}" class="w-100 br-10" alt="Banner atual do game">
                 </div>
                 <div class="col-8 text-container">
-                    <h4 class="card-title">
+                    <h4 class="card-title font-weight-semibold">
                         {{ $game->titulo }} ({{ $game->data_de_lancamento }})
                     </h4>
                     <h6 class="card-text">
@@ -34,7 +34,7 @@
                             🎮 Finalizado em {{ \Carbon\Carbon::parse($game->data_de_finalizacao)->format('d/m/Y') }}
                         @endif
                         @if($game->review_link_steam)
-                                • <img src="/img/steam-logo.png" width="16" height="16" alt="Logo do Steam" class="br-10">
+                            • <a href="{{ $game->review_link_steam }}" target="_blank"><img src="/img/steam-logo.png" width="16" height="16" alt="Logo do Steam" class="br-10"></a>
                         @endif
                     </h6>
                     <p class="mt-4">"{!! $game->review !!}"</p>

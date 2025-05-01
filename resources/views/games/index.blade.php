@@ -28,7 +28,7 @@
             <div class="card card-style shadow-sm border-0 rounded-lg">
                 <div class="card-body d-flex justify-content-between align-items-start">
                     <div class="text-container">
-                        <h6 class="card-title">
+                        <h6 class="card-title font-weight-semibold">
                             {{ $game->titulo }} ({{ $game->data_de_lancamento }})
                         </h6>
                         <p class="card-text small">
@@ -43,7 +43,7 @@
                         </p>
                     </div>
                     @if($game->banner)
-                        <img src="{{ $game->banner }}" class="img-fluid br-10" alt="{{ $game->titulo }}" style="max-width: 34px;">
+                        <img src="{{ $game->banner }}" class="img-fluid rounded" alt="{{ $game->titulo }}" style="max-width: 34px;">
                     @endif
                 </div>
             </div>
