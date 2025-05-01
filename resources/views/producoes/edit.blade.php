@@ -4,11 +4,27 @@
 <h1>Editar Produção Audiovisual</h1>
 <p>Preencha o formulário abaixo para atualizar os dados da produção audiovisual.</p>
 <hr class="bg-light mt-5">
+<div class="row mt-5">
+    <div class="col-12 col-lg-4 col-md-4">
+        <a href="{{ route('producoes.index') }}">
+            <div class="card card-style mb-4 shadow-sm border-0 rounded-lg">
+                <div class="card-body text-center">
+                    <h6 class="card-title m-0 p-0">Voltar</h5>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
 <form action="{{ route('producoes.update', $producao->id) }}" method="POST" enctype="multipart/form-data">
     @csrf
     @method('PUT')
     <div class="card bg-transparent border-white mt-5 br-10">
         <div class="card-body">
+            @if(session('success'))
+            <div class="alert alert-success" role="alert">
+                {{ session('success') }}
+            </div>
+            @endif
             <div class="row">
                 <div class="col-md-6">
                     <div class="mb-3">

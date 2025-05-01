@@ -4,6 +4,17 @@
 <h1>Adicionar Produção Audiovisual</h1>
 <p>Preencha o formulário abaixo para cadastrar uma nova produção audiovisual.</p>
 <hr class="bg-light mt-5">
+<div class="row mt-5">
+    <div class="col-12 col-lg-4 col-md-4">
+        <a href="{{ route('producoes.index') }}">
+            <div class="card card-style mb-4 shadow-sm border-0 rounded-lg">
+                <div class="card-body text-center">
+                    <h6 class="card-title m-0 p-0">Voltar</h5>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
 <form action="{{ route('producoes.store') }}" method="POST" enctype="multipart/form-data">
     @csrf
     <div class="card bg-transparent border-white mt-5 br-10">

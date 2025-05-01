@@ -14,13 +14,12 @@ Route::get('/', [HomeController::class, 'index'])->name('home.index');
 
 // Produções Audiovisuais
 Route::get('/producoes', [ProducoesAudiovisuaisController::class, 'index'])->name('producoes.index');
+Route::get('/producoes/view/{id}', [ProducoesAudiovisuaisController::class, 'view'])->name('producoes.view');
 Route::get('/producoes/create', [ProducoesAudiovisuaisController::class, 'create'])->name('producoes.create');
 Route::post('/producoes', [ProducoesAudiovisuaisController::class, 'store'])->name('producoes.store');
 Route::get('/producoes/{id}/edit', [ProducoesAudiovisuaisController::class, 'edit'])->name('producoes.edit');
 Route::put('/producoes/{id}', [ProducoesAudiovisuaisController::class, 'update'])->name('producoes.update');
 Route::delete('/producoes/{id}', [ProducoesAudiovisuaisController::class, 'destroy'])->name('producoes.destroy');
-
-/*
 
 // Games
 Route::get('/games', [GameController::class, 'index'])->name('games.index');
@@ -30,7 +29,7 @@ Route::get('/games/{id}/edit', [GameController::class, 'edit'])->name('games.edi
 Route::put('/games/{id}', [GameController::class, 'update'])->name('games.update');
 Route::delete('/games/{id}', [GameController::class, 'destroy'])->name('games.destroy');
 
-
+/*
 // Literatura
 Route::get('/literatura', [LiteraturaController::class, 'index'])->name('literatura.index');
 Route::get('/literatura/create', [LiteraturaController::class, 'create'])->name('literatura.create');

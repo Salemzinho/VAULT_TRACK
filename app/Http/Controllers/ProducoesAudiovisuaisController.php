@@ -26,6 +26,17 @@ class ProducoesAudiovisuaisController extends Controller
         return view('producoes.create');
     }
 
+    public function view($id)
+    {
+        $producao = ProducaoAudiovisual::findOrFail($id);
+
+        $parameters = [
+            'producao' => $producao,
+        ];
+
+        return view('producoes.view', $parameters);
+    }
+
     public function store(Request $request)
     {
         $request->validate([
@@ -81,7 +92,6 @@ class ProducoesAudiovisuaisController extends Controller
         return view('producoes.edit', $parameters);
     }
 
-
     public function update(Request $request, $id)
     {
         $request->validate([
@@ -118,7 +128,7 @@ class ProducoesAudiovisuaisController extends Controller
         $producao->nota_pessoal = $request->input('nota_pessoal');
         $producao->save();
 
-        return redirect()->route('producoes.index')->with('success', 'Produção Audiovisual atualizada com sucesso!');
+        return redirect()->back()->with('success', 'Produção Audiovisual atualizada com sucesso!');
     }
 
     public function destroy($id)
