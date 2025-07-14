@@ -31,7 +31,6 @@ Route::post('/games', [GameController::class, 'store'])->name('games.store');
 Route::get('/games/{id}/edit', [GameController::class, 'edit'])->name('games.edit');
 Route::put('/games/{id}', [GameController::class, 'update'])->name('games.update');
 Route::delete('/games/{id}', [GameController::class, 'destroy'])->name('games.destroy');
-Route::get('/games/json', [ProducoesAudiovisuaisController::class, 'json'])->name('games.json');
 
 // Shows
 Route::get('/shows', [ShowController::class, 'index'])->name('shows.index');
@@ -41,9 +40,7 @@ Route::post('/shows', [ShowController::class, 'store'])->name('shows.store');
 Route::get('/shows/{id}/edit', [ShowController::class, 'edit'])->name('shows.edit');
 Route::put('/shows/{id}', [ShowController::class, 'update'])->name('shows.update');
 Route::delete('/shows/{id}', [ShowController::class, 'destroy'])->name('shows.destroy');
-Route::get('/shows/json', [ShowController::class, 'json'])->name('shows.json');
 
-/*
 // Literatura
 Route::get('/literatura', [LiteraturaController::class, 'index'])->name('literatura.index');
 Route::get('/literatura/view/{id}', [LiteraturaController::class, 'view'])->name('literatura.view');
@@ -53,7 +50,16 @@ Route::get('/literatura/{id}/edit', [LiteraturaController::class, 'edit'])->name
 Route::put('/literatura/{id}', [LiteraturaController::class, 'update'])->name('literatura.update');
 Route::delete('/literatura/{id}', [LiteraturaController::class, 'destroy'])->name('literatura.destroy');
 
+// Visitas Gastronômicas
+Route::get('/visitas', [VisitaGastronomicaController::class, 'index'])->name('visitasgastronomicas.index');
+Route::get('/visitas/view/{id}', [VisitaGastronomicaController::class, 'view'])->name('visitasgastronomicas.view');
+Route::get('/visitas/create', [VisitaGastronomicaController::class, 'create'])->name('visitasgastronomicas.create');
+Route::post('/visitas', [VisitaGastronomicaController::class, 'store'])->name('visitasgastronomicas.store');
+Route::get('/visitas/{id}/edit', [VisitaGastronomicaController::class, 'edit'])->name('visitasgastronomicas.edit');
+Route::put('/visitas/{id}', [VisitaGastronomicaController::class, 'update'])->name('visitasgastronomicas.update');
+Route::delete('/visitas/{id}', [VisitaGastronomicaController::class, 'destroy'])->name('visitasgastronomicas.destroy');
 
+/*
 // Exercícios
 Route::get('/exercicios', [ExercicioController::class, 'index'])->name('exercicios.index');
 Route::get('/exercicios/view/{id}', [ExerciciosController::class, 'view'])->name('exercicios.view');
@@ -62,7 +68,6 @@ Route::post('/exercicios', [ExercicioController::class, 'store'])->name('exercic
 Route::get('/exercicios/{id}/edit', [ExercicioController::class, 'edit'])->name('exercicios.edit');
 Route::put('/exercicios/{id}', [ExercicioController::class, 'update'])->name('exercicios.update');
 Route::delete('/exercicios/{id}', [ExercicioController::class, 'destroy'])->name('exercicios.destroy');
-
 
 // Consumo de Água
 Route::get('/consumo-agua', [ConsumoAguaController::class, 'index'])->name('agua.index');
@@ -73,13 +78,4 @@ Route::get('/consumo-agua/{id}/edit', [ConsumoAguaController::class, 'edit'])->n
 Route::put('/consumo-agua/{id}', [ConsumoAguaController::class, 'update'])->name('agua.update');
 Route::delete('/consumo-agua/{id}', [ConsumoAguaController::class, 'destroy'])->name('agua.destroy');
 
-
-// Visitas Gastronômicas
-Route::get('/visitas', [VisitaGastronomicaController::class, 'index'])->name('visitas.index');
-Route::get('/visitas/view/{id}', [VisitaGastronomicaController::class, 'view'])->name('visitas.view');
-Route::get('/visitas/create', [VisitaGastronomicaController::class, 'create'])->name('visitas.create');
-Route::post('/visitas', [VisitaGastronomicaController::class, 'store'])->name('visitas.store');
-Route::get('/visitas/{id}/edit', [VisitaGastronomicaController::class, 'edit'])->name('visitas.edit');
-Route::put('/visitas/{id}', [VisitaGastronomicaController::class, 'update'])->name('visitas.update');
-Route::delete('/visitas/{id}', [VisitaGastronomicaController::class, 'destroy'])->name('visitas.destroy');
 */

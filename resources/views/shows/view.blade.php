@@ -39,7 +39,17 @@
                             @endif
                         </h6>
                         @if($show->setlist)
-                            <p class="mt-3"><strong>Setlist:</strong><br>{!! nl2br(e($show->setlist)) !!}</p>
+                            <p class="mt-3"><strong>Setlist:</strong></p>
+                            @php
+                                $setlist_items = preg_split('/\r\n|\r|\n/', $show->setlist);
+                            @endphp
+                            <ul class="pl-3">
+                                @foreach($setlist_items as $index => $item)
+                                    @if(!empty(trim($item)))
+                                        <li>{{ ($index + 1) }}. {{ $item }}</li>
+                                    @endif
+                                @endforeach
+                            </ul>
                         @endif
                         @if($show->foto_artista)
                             <div class="mt-3">

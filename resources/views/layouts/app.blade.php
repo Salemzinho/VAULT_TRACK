@@ -26,20 +26,20 @@
             <a class="nav-link" href="{{ route('games.index') }}">🎮 Games</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="{{ route('shows.index') }}">🎤 Games</a>
+            <a class="nav-link" href="{{ route('shows.index') }}">🎤 Shows</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{{ route('literatura.index') }}">📚 Literatura</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{{ route('visitasgastronomicas.index') }}">🍽️ Visitas Gastronômicas</a>
         </li>
 <!--
-        <li class="nav-item">
-            <a class="nav-link" href="{{-- route('literatura.index') --}}">Literatura</a>
-        </li>
         <li class="nav-item">
             <a class="nav-link" href="{{-- route('exercicios.index') --}}">Exercícios</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="{{-- route('consumo_agua.index') --}}">Consumo de Água</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{-- route('visitas.index') --}}">Visitas Gastronômicas</a>
         </li>
 -->
     </ul>

@@ -9,6 +9,8 @@ class Literatura extends Model
 {
     use HasFactory;
 
+    protected $table = 'literatura';
+
     protected $fillable = [
         'titulo',
         'data_de_lancamento',

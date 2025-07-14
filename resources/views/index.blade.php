@@ -37,6 +37,26 @@
                 </div>
             </a>
         </div>
+        <div class="col-md-4">
+            <a href="{{ route('literatura.index') }}">
+                <div class="card card-style mb-4 shadow-sm border-0 rounded-lg br-10">
+                    <div class="card-body"> 
+                        <h6 class="card-title font-weight-semibold">📚 Literatura</h6>
+                        <p class="card-text small">Registre seus livros lidos e veja suas reviews.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="{{ route('visitasgastronomicas.index') }}">
+                <div class="card card-style mb-4 shadow-sm border-0 rounded-lg br-10">
+                    <div class="card-body"> 
+                        <h6 class="card-title font-weight-semibold">🍽️ Visitas Gastronômicas</h6>
+                        <p class="card-text small">Registre suas visitas a restaurantes e compartilhe suas avaliações.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
     </div>
 </div>
 @endsection
