@@ -9,6 +9,7 @@ use App\Http\Controllers\LiteraturaController;
 use App\Http\Controllers\ExercicioController;
 use App\Http\Controllers\ConsumoAguaController;
 use App\Http\Controllers\VisitaGastronomicaController;
+use App\Http\Controllers\ShowController;
 
 Route::get('/', [HomeController::class, 'index'])->name('home.index');
 
@@ -20,6 +21,7 @@ Route::post('/producoes', [ProducoesAudiovisuaisController::class, 'store'])->na
 Route::get('/producoes/{id}/edit', [ProducoesAudiovisuaisController::class, 'edit'])->name('producoes.edit');
 Route::put('/producoes/{id}', [ProducoesAudiovisuaisController::class, 'update'])->name('producoes.update');
 Route::delete('/producoes/{id}', [ProducoesAudiovisuaisController::class, 'destroy'])->name('producoes.destroy');
+Route::get('/producoes/json', [ProducoesAudiovisuaisController::class, 'json'])->name('producoes.json');
 
 // Games
 Route::get('/games', [GameController::class, 'index'])->name('games.index');
@@ -29,6 +31,17 @@ Route::post('/games', [GameController::class, 'store'])->name('games.store');
 Route::get('/games/{id}/edit', [GameController::class, 'edit'])->name('games.edit');
 Route::put('/games/{id}', [GameController::class, 'update'])->name('games.update');
 Route::delete('/games/{id}', [GameController::class, 'destroy'])->name('games.destroy');
+Route::get('/games/json', [ProducoesAudiovisuaisController::class, 'json'])->name('games.json');
+
+// Shows
+Route::get('/shows', [ShowController::class, 'index'])->name('shows.index');
+Route::get('/shows/view/{id}', [ShowController::class, 'view'])->name('shows.view');
+Route::get('/shows/create', [ShowController::class, 'create'])->name('shows.create');
+Route::post('/shows', [ShowController::class, 'store'])->name('shows.store');
+Route::get('/shows/{id}/edit', [ShowController::class, 'edit'])->name('shows.edit');
+Route::put('/shows/{id}', [ShowController::class, 'update'])->name('shows.update');
+Route::delete('/shows/{id}', [ShowController::class, 'destroy'])->name('shows.destroy');
+Route::get('/shows/json', [ShowController::class, 'json'])->name('shows.json');
 
 /*
 // Literatura

@@ -33,9 +33,11 @@
                                 <i class="text-muted">{{ $producao->temporada }}ª temporada ({{ $producao->quantidade_de_episodios }} episódios)</i>
                             @endif
                         </h4>
-                        <h6 class="card-text">
+                        <h6 class="card-text">@dd($producao->finalizado_em)
                             @if($producao->diretor)
                                 🎬 Assistido em {{ \Carbon\Carbon::parse($producao->assistido_em)->format('d/m/Y') }}
+                            @elseif(($producao->temporada && $producao->quantidade_de_episodios) && ($producao->iniciado_em && $producao->finalizado_em))
+                                🌸 Assistido de {{ \Carbon\Carbon::parse($producao->iniciado_em)->format('d/m/Y') }} a {{ \Carbon\Carbon::parse($producao->finalizado_em)->format('d/m/Y') }}
                             @elseif($producao->temporada && $producao->quantidade_de_episodios)
                                 📺 Assistido em {{ \Carbon\Carbon::parse($producao->assistido_em)->format('d/m/Y') }}
                             @endif

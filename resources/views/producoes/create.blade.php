@@ -85,5 +85,15 @@
             </div>
         </div>
     </form>
+    <form action="{{ route('producoes.json') }}" method="get" enctype="multipart/form-data">
+        @csrf
+        <div class="card bg-bluish-purple mt-3 br-10">
+            <div class="card-body">
+                <div class="text-left">
+                    <button type="submit" class="btn btn-outline-primary">Rodar JSON</button>
+                </div>
+            </div>
+        </div>
+    </form>
 </div>
 @endsection

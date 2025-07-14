@@ -1,0 +1,1463 @@
+[
+  {
+    "titulo": "Birth/Rebirth",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-01-03",
+    "diretor": "Laura Moss",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9567691"
+  },
+  {
+    "titulo": "Rick and Morty",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-01-05",
+    "temporada": 7,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "The Notebook",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2024-01-06",
+    "diretor": "Nick Cassavetes"
+  },
+  {
+    "titulo": "I Am Groot",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-01-07",
+    "temporada": 2,
+    "quantidade_de_episodios": 5
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2020",
+    "iniciado_em": "2023-11-17",
+    "finalizado_em": "2024-01-11",
+    "temporada": 4,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "She-Hulk",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-01-14",
+    "temporada": 1,
+    "quantidade_de_episodios": 9
+  },
+  {
+    "titulo": "Shingeki no Kyojin",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-01-14",
+    "temporada": 4,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Shingeki no Kyojin",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-01-15",
+    "temporada": 4,
+    "quantidade_de_episodios": 1
+  },
+  {
+    "titulo": "Shingeki no Kyojin",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-01-19",
+    "temporada": 4,
+    "quantidade_de_episodios": 1
+  },
+  {
+    "titulo": "A Cinderella Story",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2024-01-20",
+    "diretor": "Mark Rosman"
+  },
+  {
+    "titulo": "The Guardians of the Galaxy Holiday Special",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-01-21",
+    "diretor": "James Gunn"
+  },
+  {
+    "titulo": "The Texas Chain Saw Massacre",
+    "data_de_lancamento": "1974",
+    "assistido_em": "2024-01-22",
+    "diretor": "Tobe Hooper",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw9592638"
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2021",
+    "iniciado_em": "2024-01-11",
+    "finalizado_em": "2024-01-23",
+    "temporada": 5,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "Hellbound: Hellraiser II",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2024-01-23",
+    "diretor": "Tony Randel",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9594885"
+  },
+  {
+    "titulo": "Hellraiser III: Hell on Earth",
+    "data_de_lancamento": "1992",
+    "assistido_em": "2024-01-23",
+    "diretor": "Anthony Hickox",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9606211"
+  },
+  {
+    "titulo": "Call Me by Your Name",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-01-27",
+    "diretor": "Lucas Guadagnino"
+  },
+  {
+    "titulo": "Hellraiser: Bloodline",
+    "data_de_lancamento": "1996",
+    "assistido_em": "2024-01-29",
+    "diretor": "Kevin Yagher",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9606575"
+  },
+  {
+    "titulo": "Hellraiser: Inferno",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2024-02-01",
+    "diretor": "Scott Derrickson",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9610357"
+  },
+  {
+    "titulo": "The Texas Chainsaw Massacre 2",
+    "data_de_lancamento": "1986",
+    "assistido_em": "2024-02-02",
+    "diretor": "Tobe Hooper",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9631554"
+  },
+  {
+    "titulo": "Hellraiser: Hellseeker",
+    "data_de_lancamento": "2002",
+    "assistido_em": "2024-02-05",
+    "diretor": "Rick Bota",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9634698"
+  },
+  {
+    "titulo": "Hellraiser: Deader",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2024-02-15",
+    "diretor": "Rick Bota",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9645238"
+  },
+  {
+    "titulo": "Hellraiser: Hellworld",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2024-02-19",
+    "diretor": "Rick Bota",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9660670"
+  },
+  {
+    "titulo": "While You Were Sleeping",
+    "data_de_lancamento": "1995",
+    "assistido_em": "2024-02-21",
+    "diretor": "Jon Turteltaub"
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2022",
+    "iniciado_em": "2024-01-24",
+    "finalizado_em": "2024-02-25",
+    "temporada": 6,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "Finding You",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2024-02-25",
+    "diretor": "Brian Baugh"
+  },
+  {
+    "titulo": "Hellraiser: Revelations",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-02-27",
+    "diretor": "Víctor Garcia",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw9662072"
+  },
+  {
+    "titulo": "Anyone But You",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-02-28",
+    "diretor": "Will Gluck"
+  },
+  {
+    "titulo": "Mob Psycho 100",
+    "data_de_lancamento": "2022",
+    "iniciado_em": "2024-01-28",
+    "finalizado_em": "2024-03-03",
+    "temporada": 3,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Kimetsu no Yaiba",
+    "data_de_lancamento": "2021",
+    "iniciado_em": "2024-03-03",
+    "finalizado_em": "2024-03-08",
+    "temporada": 2,
+    "quantidade_de_episodios": 11
+  },
+  {
+    "titulo": "The Super Mario Bros. Movie",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-03-10",
+    "diretor": "Aaron Horvath, Michael Jelenic"
+  },
+  {
+    "titulo": "Leatherface: Texas Chainsaw Massacre III",
+    "data_de_lancamento": "1990",
+    "assistido_em": "2024-03-13",
+    "diretor": "Jeff Burr",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9677801"
+  },
+  {
+    "titulo": "Damsel",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-03-16",
+    "diretor": "Juan Carlos Fresnadillo"
+  },
+  {
+    "titulo": "Barbie",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-03-21",
+    "diretor": "Greta Gerwig"
+  },
+  {
+    "titulo": "Blood & Water",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-03-23",
+    "temporada": 4,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2024-03-24",
+    "temporada": 3,
+    "quantidade_de_episodios": 26
+  },
+  {
+    "titulo": "Les 7 jours du talion",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2024-03-27",
+    "diretor": "Daniel Grou",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9714222"
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2024-03-31",
+    "temporada": 4,
+    "quantidade_de_episodios": 26
+  },
+  {
+    "titulo": "Funny Games",
+    "data_de_lancamento": "1997",
+    "assistido_em": "2024-04-01",
+    "diretor": "Michael Haneke",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9717555"
+  },
+  {
+    "titulo": "Kill List",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-04-09",
+    "diretor": "Ben Wheatley",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9788432"
+  },
+  {
+    "titulo": "Dahmer - Monster: The Jeffrey Dahmer Story",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-04-18",
+    "temporada": 1,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2024-04-28",
+    "temporada": 1,
+    "quantidade_de_episodios": 24
+  },
+  {
+    "titulo": "Smile",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-04-30",
+    "diretor": "Parker Finn",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9799915"
+  },
+  {
+    "titulo": "Late Night with the Devil",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-05-01",
+    "diretor": "Cameron Cairnes, Colin Cairnes",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9825441"
+  },
+  {
+    "titulo": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-05-06",
+    "temporada": 1,
+    "quantidade_de_episodios": 3
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2024-05-08",
+    "temporada": 2,
+    "quantidade_de_episodios": 24
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2024-05-12",
+    "temporada": 3,
+    "quantidade_de_episodios": 24
+  },
+  {
+    "titulo": "Baby Reindeer",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-05-14",
+    "temporada": 1,
+    "quantidade_de_episodios": 7
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-05-17",
+    "temporada": 4,
+    "quantidade_de_episodios": 24
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2024-05-19",
+    "temporada": 5,
+    "quantidade_de_episodios": 19
+  },
+  {
+    "titulo": "Marrowbone",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-05-22",
+    "diretor": "Sergio G. Sánchez",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9825442"
+  },
+  {
+    "titulo": "Thanksgiving",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-05-24",
+    "diretor": "Eli Roth",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9826051"
+  },
+  {
+    "titulo": "The Boy",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2024-05-25",
+    "diretor": "William Brent Bell",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9831441"
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2024-05-26",
+    "temporada": 6,
+    "quantidade_de_episodios": 24
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2024-05-30",
+    "temporada": 7,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "My Bloody Valentine",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2024-05-30",
+    "diretor": "Patrick Lussier",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9835867"
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2024-06-01",
+    "temporada": 8,
+    "quantidade_de_episodios": 16
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2012",
+    "assistido_em": "2024-06-02",
+    "temporada": 5,
+    "quantidade_de_episodios": 52
+  },
+  {
+    "titulo": "Luca",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2024-06-02",
+    "diretor": "Enrico Casarosa"
+  },
+  {
+    "titulo": "Ciao Alberto",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2024-06-02",
+    "diretor": "McKenna Harris"
+  },
+  {
+    "titulo": "The Strangers: Prey at Night",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2024-06-03",
+    "diretor": "Johannes Roberts",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9835838"
+  },
+  {
+    "titulo": "Harry Potter and the Prisoner of Azkaban",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2024-06-04",
+    "diretor": "Alfonso Cuarón"
+  },
+  {
+    "titulo": "Immaculate",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2024-06-05",
+    "diretor": "Michael Mohan",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9838832"
+  },
+  {
+    "titulo": "The Boogeyman",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-06-07",
+    "diretor": "Rob Savage",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9839779"
+  },
+  {
+    "titulo": "Twisted Nightmare",
+    "data_de_lancamento": "1987",
+    "assistido_em": "2024-06-09",
+    "diretor": "Paul Hunt",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9839860"
+  },
+  {
+    "titulo": "Your Place or Mine",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-06-09",
+    "diretor": "Aline Brosh McKenna"
+  },
+  {
+    "titulo": "Texas Chainsaw Massacre: The Next Generation",
+    "data_de_lancamento": "1995",
+    "assistido_em": "2024-06-10",
+    "diretor": "Kim Henkel",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw9840508"
+  },
+  {
+    "titulo": "Pamyo",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-06-10",
+    "diretor": "Jang Jae-hyun",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9842283"
+  },
+  {
+    "titulo": "Play Me",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-06-11",
+    "diretor": "Caleb J. Phillips"
+  },
+  {
+    "titulo": "Portrait of God",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-06-11",
+    "diretor": "Dylan Clark"
+  },
+  {
+    "titulo": "Post Mortem Mary",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-06-11",
+    "diretor": "Joshua Long"
+  },
+  {
+    "titulo": "Good Boy",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-06-11",
+    "diretor": "Viljar Bøe",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9842742"
+  },
+  {
+    "titulo": "Love at First Sight",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-06-12",
+    "diretor": "Vanessa Caswill"
+  },
+  {
+    "titulo": "Irish Wish",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-06-14",
+    "diretor": "Janeen Damian"
+  },
+  {
+    "titulo": "Bridgerton",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-06-16",
+    "temporada": 3,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "I Saw the TV Glow",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-06-17",
+    "diretor": "Jane Schoenbrun",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9854642"
+  },
+  {
+    "titulo": "Sleepaway Camp II: Unhappy Campers",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2024-06-17",
+    "diretor": "Michael A. Simpson",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9856831"
+  },
+  {
+    "titulo": "La mesita del comedor",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-06-18",
+    "diretor": "Caye Casas",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9868531"
+  },
+  {
+    "titulo": "Misery",
+    "data_de_lancamento": "1990",
+    "assistido_em": "2024-06-18",
+    "diretor": "Rob Reiner",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9871884"
+  },
+  {
+    "titulo": "Ponyo",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2024-06-20",
+    "diretor": "Hayao Miyazaki"
+  },
+  {
+    "titulo": "Hauru no ugoku shiro",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2024-06-21",
+    "diretor": "Hayao Miyazaki"
+  },
+  {
+    "titulo": "Men",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-06-25",
+    "diretor": "Alex Garland",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9872437"
+  },
+  {
+    "titulo": "Aterrados",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-06-25",
+    "diretor": "Demián Rugna",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9875538"
+  },
+  {
+    "titulo": "Hellraiser: Judgment",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2024-06-27",
+    "diretor": "Gary J. Tunnicliffe",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9879277"
+  },
+  {
+    "titulo": "Kimetsu no Yaiba",
+    "data_de_lancamento": "2023",
+    "iniciado_em": "2024-03-24",
+    "finalizado_em": "2024-06-28",
+    "temporada": 3,
+    "quantidade_de_episodios": 11
+  },
+  {
+    "titulo": "The Idea of You",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-06-29",
+    "diretor": "Michael Showalter"
+  },
+  {
+    "titulo": "The Devil Wears Prada",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-06-30",
+    "diretor": "David Frankel"
+  },
+  {
+    "titulo": "Hellraiser",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-07-01",
+    "diretor": "David Bruckner",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9880709"
+  },
+  {
+    "titulo": "Shutter Island",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2024-07-08",
+    "diretor": "Martin Scorsese",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9897710"
+  },
+  {
+    "titulo": "Gisaengchung",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2024-07-09",
+    "diretor": "Bong Joon Ho",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw9906293"
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2024-07-12",
+    "temporada": 6,
+    "quantidade_de_episodios": 43
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "data_de_lancamento": "1994",
+    "assistido_em": "2024-07-14",
+    "diretor": "Quentin Tarantino"
+  },
+  {
+    "titulo": "MaXXXine",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-07-17",
+    "diretor": "Ti West",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9952789"
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2024-07-28",
+    "temporada": 7,
+    "quantidade_de_episodios": 26
+  },
+  {
+    "titulo": "The Loved Ones",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2024-07-29",
+    "diretor": "Sean Byrne",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9964484/"
+  },
+  {
+    "titulo": "Mulholland Drive",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2024-08-01",
+    "diretor": "David Lynch",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw9969465"
+  },
+  {
+    "titulo": "Loki",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-08-02",
+    "temporada": 2,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Elite",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-08-04",
+    "temporada": 8,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "The Watchers",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-08-13",
+    "diretor": "Ishana Shyamalan",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9976510"
+  },
+  {
+    "titulo": "Scenes From a Mall",
+    "data_de_lancamento": "1991",
+    "assistido_em": "2024-08-17",
+    "diretor": "Paul Mazursky"
+  },
+  {
+    "titulo": "The First Omen",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-08-19",
+    "diretor": "Arkasha Stevenson",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9976548"
+  },
+  {
+    "titulo": "Black Swan",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2024-08-22",
+    "diretor": "Darren Aronofsky",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9976791"
+  },
+  {
+    "titulo": "Over The Garden Wall",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2024-08-23",
+    "temporada": 1,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2024-08-23",
+    "temporada": 8,
+    "quantidade_de_episodios": 27
+  },
+  {
+    "titulo": "Longless",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-08-25",
+    "diretor": "Osgood Perkins",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9977305"
+  },
+  {
+    "titulo": "Failure to Launch",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-08-25",
+    "diretor": "Tom Dey"
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-08-27",
+    "temporada": 9,
+    "quantidade_de_episodios": 14
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-09-01",
+    "temporada": 10,
+    "quantidade_de_episodios": 13
+  },
+  {
+    "titulo": "How to Lose a Guy in 10 Days",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2024-09-01",
+    "diretor": "Donald Petrie"
+  },
+  {
+    "titulo": "The Shining",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2024-09-02",
+    "diretor": "Stanley Kubrick",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw10008164"
+  },
+  {
+    "titulo": "500 Days of Summer",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2024-09-05",
+    "diretor": "Marc Webb"
+  },
+  {
+    "titulo": "Leap Year",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2024-09-06",
+    "diretor": "Anand Tucker"
+  },
+  {
+    "titulo": "Adventure Time: Distant Lands",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2024-09-07",
+    "temporada": 1,
+    "quantidade_de_episodios": 4
+  },
+  {
+    "titulo": "Trap",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-09-09",
+    "diretor": "M. Night Shyamalan",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10015781"
+  },
+  {
+    "titulo": "Lords of Chaos",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2024-09-12",
+    "diretor": "Jonas Åkerlund",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10015850"
+  },
+  {
+    "titulo": "Silent Hill",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-09-16",
+    "diretor": "Christophe Gans",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10017154"
+  },
+  {
+    "titulo": "Contratiempo",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2024-09-17",
+    "diretor": "Oriol Paulo",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10028811"
+  },
+  {
+    "titulo": "The Birds",
+    "data_de_lancamento": "1963",
+    "assistido_em": "2024-09-18",
+    "diretor": "Alfred Hitchcock",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10031171"
+  },
+  {
+    "titulo": "Jung Kook: I Am Still",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-09-19",
+    "diretor": "Jun-Soo Park"
+  },
+  {
+    "titulo": "Scooby-Doo on Zombie Island",
+    "data_de_lancamento": "1998",
+    "assistido_em": "2024-09-19",
+    "diretor": "Jim Stenstrum"
+  },
+  {
+    "titulo": "Operazione Paura",
+    "data_de_lancamento": "1966",
+    "assistido_em": "2024-09-25",
+    "diretor": "Mario Bava",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10041626"
+  },
+  {
+    "titulo": "Peeping Tom",
+    "data_de_lancamento": "1960",
+    "assistido_em": "2024-09-25",
+    "diretor": "Michael Powell",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10041670"
+  },
+  {
+    "titulo": "Monsters",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-09-26",
+    "temporada": 2,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Bride Wars",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2024-09-27",
+    "diretor": "Gary Winick"
+  },
+  {
+    "titulo": "Phantasm II",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2024-10-01",
+    "diretor": "Don Coscarelli",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10042871"
+  },
+  {
+    "titulo": "Phantasm III: Lord of the Dead",
+    "data_de_lancamento": "1994",
+    "assistido_em": "2024-10-02",
+    "diretor": "Don Coscarelli",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10046042"
+  },
+  {
+    "titulo": "We Need to Talk About Kevin",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-10-03",
+    "diretor": "Lynne Ramsay",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10046676"
+  },
+  {
+    "titulo": "American Psycho",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2024-10-04",
+    "diretor": "Mary Harron",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10056667"
+  },
+  {
+    "titulo": "Just Married",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2024-10-04",
+    "diretor": "Shawn Levy"
+  },
+  {
+    "titulo": "Made of Honor",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2024-10-05",
+    "diretor": "Paul Weiland"
+  },
+  {
+    "titulo": "Phantasm IV: Oblivion",
+    "data_de_lancamento": "1998",
+    "assistido_em": "2024-10-06",
+    "diretor": "Don Coscarelli",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10056732"
+  },
+  {
+    "titulo": "Opera",
+    "data_de_lancamento": "1987",
+    "assistido_em": "2024-10-07",
+    "diretor": "Dario Argento",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10057058"
+  },
+  {
+    "titulo": "Night Stalker: The Hunt for a Serial Killer",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2024-10-07",
+    "temporada": 1,
+    "quantidade_de_episodios": 4
+  },
+  {
+    "titulo": "A Quiet Place",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2024-10-08",
+    "diretor": "John Krasinski",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10062077"
+  },
+  {
+    "titulo": "Srpski film",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2024-10-09",
+    "diretor": "Srdjan Spasojevic",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10068524"
+  },
+  {
+    "titulo": "Phantasm: Ravager",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2024-10-09",
+    "diretor": "David Hartman",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw10068831"
+  },
+  {
+    "titulo": "Aloha, Scooby-Doo!",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2024-10-13",
+    "diretor": "Tim Maltby"
+  },
+  {
+    "titulo": "À Meia Noite Levarei Sua Alma",
+    "data_de_lancamento": "1964",
+    "assistido_em": "2024-10-14",
+    "diretor": "José Mojica Marins",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10071722"
+  },
+  {
+    "titulo": "Baixio das Bestas",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-10-14",
+    "diretor": "Cláudio Assis",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10071776"
+  },
+  {
+    "titulo": "The Substance",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-10-14",
+    "diretor": "Coralie Fargeat",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10073103"
+  },
+  {
+    "titulo": "The Bunny Game",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-10-15",
+    "diretor": "Adam Rehmeier",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw10076731"
+  },
+  {
+    "titulo": "Prom Night",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2024-10-15",
+    "diretor": "Paul Lynch",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10077252"
+  },
+  {
+    "titulo": "Atroz",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2024-10-16",
+    "diretor": "Lex Ortega",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw10077302"
+  },
+  {
+    "titulo": "The Addams Family",
+    "data_de_lancamento": "1991",
+    "assistido_em": "2024-10-16",
+    "diretor": "Barry Sonnenfeld"
+  },
+  {
+    "titulo": "Strange Darling",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2024-10-16",
+    "diretor": "JT Mollner",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10079116"
+  },
+  {
+    "titulo": "Jaws",
+    "data_de_lancamento": "1975",
+    "assistido_em": "2024-10-18",
+    "diretor": "Steven Spielberg",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw10079185"
+  },
+  {
+    "titulo": "The Innocents",
+    "data_de_lancamento": "1961",
+    "assistido_em": "2024-10-21",
+    "diretor": "Jack Clayton",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10085464"
+  },
+  {
+    "titulo": "The Unknown",
+    "data_de_lancamento": "1927",
+    "assistido_em": "2024-10-21",
+    "diretor": "Tod Browning",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10085517"
+  },
+  {
+    "titulo": "La Maschera del Demonio",
+    "data_de_lancamento": "1960",
+    "assistido_em": "2024-10-21",
+    "diretor": "Mario Bava",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10085652"
+  },
+  {
+    "titulo": "Vargtimmen",
+    "data_de_lancamento": "1968",
+    "assistido_em": "2024-10-21",
+    "diretor": "Ingmar Bergman",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10085685"
+  },
+  {
+    "titulo": "Fright Night",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2024-10-23",
+    "diretor": "Tom Holland",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10111516"
+  },
+  {
+    "titulo": "Child's Play",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2024-10-23",
+    "diretor": "Tom Holland",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10115922"
+  },
+  {
+    "titulo": "The Craft",
+    "data_de_lancamento": "1996",
+    "assistido_em": "2024-10-23",
+    "diretor": "Andrew Fleming",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10116239"
+  },
+  {
+    "titulo": "The Exorcism of Emily Rose",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2024-10-23",
+    "diretor": "Scott Derrickson",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10124535"
+  },
+  {
+    "titulo": "Saint Maud",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2024-10-23",
+    "diretor": "Rose Glass",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10124574"
+  },
+  {
+    "titulo": "La piel que habito",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-10-24",
+    "diretor": "Pedro Almodóvar",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10145296"
+  },
+  {
+    "titulo": "The Texas Chainsaw Massacre",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2024-10-24",
+    "diretor": "Marcus Nispel",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10149557"
+  },
+  {
+    "titulo": "Chilling Adventures of Sabrina",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2024-10-26",
+    "temporada": 1,
+    "quantidade_de_episodios": 11
+  },
+  {
+    "titulo": "Crush",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-10-27",
+    "diretor": "Sammi Cohen"
+  },
+  {
+    "titulo": "The Texas Chainsaw Massacre: The Beginning",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-10-28",
+    "diretor": "Jonathan Liebesman",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10151630"
+  },
+  {
+    "titulo": "Texas Chainsaw 3D",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2024-10-29",
+    "diretor": "John Luessenhop",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10154025"
+  },
+  {
+    "titulo": "Leatherface",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2024-10-29",
+    "diretor": "Alexandre Bustillo, Julien Maury",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10156888"
+  },
+  {
+    "titulo": "The Menendez Brothers",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-10-29",
+    "diretor": "Alejandro Hartmann"
+  },
+  {
+    "titulo": "Cuckoo",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-10-30",
+    "diretor": "Tilman Singer",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10159571"
+  },
+  {
+    "titulo": "Texas Chainsaw Massacre",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-10-30",
+    "diretor": "David Blue Garcia",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw10161499"
+  },
+  {
+    "titulo": "8MM",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2024-10-30",
+    "diretor": "Joel Schumacher",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10184859"
+  },
+  {
+    "titulo": "Braindead",
+    "data_de_lancamento": "1992",
+    "assistido_em": "2024-10-31",
+    "diretor": "Peter Jackson",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10198836"
+  },
+  {
+    "titulo": "Never Let Go",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-11-01",
+    "diretor": "Alexandre Aja",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10198876"
+  },
+  {
+    "titulo": "Scooby-Doo and the Witch's Ghost",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2024-11-03",
+    "diretor": "Jim Stenstrum"
+  },
+  {
+    "titulo": "ParaNorman",
+    "data_de_lancamento": "2012",
+    "assistido_em": "2024-11-03",
+    "diretor": "Chris Butler, Sam Fell"
+  },
+  {
+    "titulo": "Coraline",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2024-11-03",
+    "diretor": "Henry Selick"
+  },
+  {
+    "titulo": "Blink Twice",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-11-04",
+    "diretor": "Zoë Kravitz",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10198915"
+  },
+  {
+    "titulo": "This Is the Zodiac Speaking",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-11-06",
+    "temporada": 1,
+    "quantidade_de_episodios": 3
+  },
+  {
+    "titulo": "Chilling Adventures of Sabrina",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2024-11-08",
+    "temporada": 2,
+    "quantidade_de_episodios": 9
+  },
+  {
+    "titulo": "We Live in Time",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-11-10",
+    "diretor": "John Crowley"
+  },
+  {
+    "titulo": "Chilling Adventures of Sabrina",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2024-11-16",
+    "temporada": 3,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-11-17",
+    "temporada": 9,
+    "quantidade_de_episodios": 24
+  },
+  {
+    "titulo": "Buffy the Vampire Slayer",
+    "data_de_lancamento": "1997",
+    "assistido_em": "2024-11-21",
+    "temporada": 1,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2012",
+    "assistido_em": "2024-11-23",
+    "temporada": 10,
+    "quantidade_de_episodios": 23
+  },
+  {
+    "titulo": "Buffy the Vampire Slayer",
+    "data_de_lancamento": "1997",
+    "iniciado_em": "2024-11-23",
+    "finalizado_em": "2024-11-30",
+    "temporada": 2,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "Oldeuboi",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2024-12-02",
+    "diretor": "Park Chan-wook"
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2024-12-05",
+    "temporada": 11,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "Chilling Adventures of Sabrina",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2024-12-05",
+    "temporada": 4,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Home Alone",
+    "data_de_lancamento": "1990",
+    "assistido_em": "2024-12-06",
+    "diretor": "Chris Columbus"
+  },
+  {
+    "titulo": "Home Alone 2: Lost in New York",
+    "data_de_lancamento": "1992",
+    "assistido_em": "2024-12-08",
+    "diretor": "Chris Columbus"
+  },
+  {
+    "titulo": "GoldenEye",
+    "data_de_lancamento": "1995",
+    "assistido_em": "2024-12-10",
+    "diretor": "Martin Campbell"
+  },
+  {
+    "titulo": "Sweethearts",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-12-12",
+    "diretor": "Jordan Weiss"
+  },
+  {
+    "titulo": "Two and a Half Men",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2024-12-15",
+    "temporada": 12,
+    "quantidade_de_episodios": 16
+  },
+  {
+    "titulo": "Our Little Secret",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-12-17",
+    "diretor": "Stephen Herek"
+  },
+  {
+    "titulo": "Smile 2",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-12-18",
+    "diretor": "Parker Finn",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10234570"
+  },
+  {
+    "titulo": "Catering Christmas",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-12-19",
+    "diretor": "T.W. Peacocke"
+  },
+  {
+    "titulo": "The 40 Year Old Virgin",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2024-12-20",
+    "diretor": "Judd Apatow"
+  },
+  {
+    "titulo": "How the Grinch Stole Christmas",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2024-12-21",
+    "diretor": "Ron Howard"
+  },
+  {
+    "titulo": "Smiling Friends",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2024-12-22",
+    "temporada": 1,
+    "quantidade_de_episodios": 9
+  },
+  {
+    "titulo": "Yes Man",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2024-12-22",
+    "diretor": "Peyton Reed"
+  },
+  {
+    "titulo": "Smiling Friends",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-12-25",
+    "temporada": 2,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Garfield: The Movie",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2024-12-25",
+    "diretor": "Peter Hewitt"
+  },
+  {
+    "titulo": "Garfield 2",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2024-12-25",
+    "diretor": "Tim Hill"
+  },
+  {
+    "titulo": "About Fate",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-12-26",
+    "diretor": "Marius Balchunas"
+  },
+  {
+    "titulo": "Heretic",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2024-12-27",
+    "diretor": "Scott Beck, Bryan Woods",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10243674"
+  },
+  {
+    "titulo": "365 Days: This Day",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2024-12-28",
+    "diretor": "Barbara Bialowas, Tomasz Mandes"
+  },
+  {
+    "titulo": "Scooby-Doo and the Cyber Chase",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2024-12-28",
+    "diretor": "Jim Stenstrum"
+  },
+  {
+    "titulo": "Scooby-Doo and the Alien Invaders",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2024-12-29",
+    "diretor": "Jim Stenstrum"
+  },
+  {
+    "titulo": "Crazy, Stupid, Love.",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2024-12-29",
+    "diretor": "Glenn Ficarra, John Requa"
+  }
+]

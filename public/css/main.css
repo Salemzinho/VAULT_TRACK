@@ -76,3 +76,27 @@ body {
     background-color: rgba(255, 255, 255, 0.1);
     color: #fff;
 }
+
+.page-item.active .page-link {
+    background-color: #3d3d51;
+    border-color: #3d3d51;
+    border: 1px solid #3d3d51;
+}
+
+.page-item.disabled .page-link {
+    color: #f8f9fa;
+    background-color: transparent;
+    border: 1px solid #3d3d51;
+    transition: all 0.3s ease;
+}
+
+.page-item .page-link, .page-item.disabled {
+    color: #f8f9fa;
+    background-color: transparent;
+    border: 1px solid #3d3d51;
+    transition: all 0.3s ease;
+}
+
+.page-item{
+    border: 1px solid #3d3d51;
+}

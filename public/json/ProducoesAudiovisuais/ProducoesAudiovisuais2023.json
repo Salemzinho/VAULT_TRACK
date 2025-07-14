@@ -1,0 +1,1980 @@
+[
+  {
+    "titulo": "Terrifier 2",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-01-05",
+    "diretor": "Damien Leone"
+  },
+  {
+    "titulo": "Emily in Paris",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-01-06",
+    "temporada": 3,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Halloween",
+    "data_de_lancamento": "1978",
+    "assistido_em": "2023-01-08",
+    "diretor": "John Carpenter"
+  },
+  {
+    "titulo": "The Exorcist",
+    "data_de_lancamento": "1973",
+    "assistido_em": "2023-01-08",
+    "diretor": "William Friedkin"
+  },
+  {
+    "titulo": "El Hoyo",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-01-09",
+    "diretor": "Galder Gaztelu-Urrutia"
+  },
+  {
+    "titulo": "Grave",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2023-01-09",
+    "diretor": "Julia Ducournau"
+  },
+  {
+    "titulo": "Ginny & Georgia",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-01-09",
+    "temporada": 2,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Scream",
+    "data_de_lancamento": "1996",
+    "assistido_em": "2023-01-10",
+    "diretor": "Wes Craven"
+  },
+  {
+    "titulo": "The Silence of The Lambs",
+    "data_de_lancamento": "1991",
+    "assistido_em": "2023-01-10",
+    "diretor": "Jonathan Demme",
+    "nota_pessoal": 10,
+    "review_link_imdb": "https://www.imdb.com/review/rw9392802"
+  },
+  {
+    "titulo": "Midsommar",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-01-11",
+    "diretor": "Ari Aster",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw10265817"
+  },
+  {
+    "titulo": "Salò o le 120 Giornate di Sodoma",
+    "data_de_lancamento": "1975",
+    "assistido_em": "2023-01-12",
+    "diretor": "Pier Paolo Pasolini"
+  },
+  {
+    "titulo": "The Black Phone",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-01-12",
+    "diretor": "Scott Derrickson"
+  },
+  {
+    "titulo": "Cannibal Holocaust",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2023-01-17",
+    "diretor": "Ruggero Deodato"
+  },
+  {
+    "titulo": "Ringu",
+    "data_de_lancamento": "1998",
+    "assistido_em": "2023-01-17",
+    "diretor": "Hideo Nakata"
+  },
+  {
+    "titulo": "Halloween II",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-01-18",
+    "diretor": "Rick Rosenthal"
+  },
+  {
+    "titulo": "Henry: Portrait of a Serial Killer",
+    "data_de_lancamento": "1986",
+    "assistido_em": "2023-01-18",
+    "diretor": "John McNaughton"
+  },
+  {
+    "titulo": "The Babadook",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2023-01-19",
+    "diretor": "Jennifer Kent"
+  },
+  {
+    "titulo": "Halloween III: Season of the Witch",
+    "data_de_lancamento": "1982",
+    "assistido_em": "2023-01-19",
+    "diretor": "Tommy Lee Wallace"
+  },
+  {
+    "titulo": "Scream 2",
+    "data_de_lancamento": "1997",
+    "assistido_em": "2023-01-19",
+    "diretor": "Wes Craven"
+  },
+  {
+    "titulo": "Scream 3",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2023-01-20",
+    "diretor": "Wes Craven"
+  },
+  {
+    "titulo": "Sexify",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-01-20",
+    "temporada": 2,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "A Nightmare on Elm Street",
+    "data_de_lancamento": "1984",
+    "assistido_em": "2023-01-24",
+    "diretor": "Wes Craven"
+  },
+  {
+    "titulo": "A Nightmare on Elm Street 2: Freddy's Revenge",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2023-01-24",
+    "diretor": "Jack Sholder"
+  },
+  {
+    "titulo": "The Wicker Man",
+    "data_de_lancamento": "1973",
+    "assistido_em": "2023-01-24",
+    "diretor": "Robin Hardy"
+  },
+  {
+    "titulo": "A Nightmare on Elm Street 3: Dream Warriors",
+    "data_de_lancamento": "1987",
+    "assistido_em": "2023-01-24",
+    "diretor": "Chuck Russell"
+  },
+  {
+    "titulo": "Madre Solo Hay Dos",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-01-25",
+    "temporada": 3,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Scream 4",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-01-26",
+    "diretor": "Wes Craven"
+  },
+  {
+    "titulo": "Saw",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2023-01-26",
+    "diretor": "James Wan"
+  },
+  {
+    "titulo": "Friday the 13th Part 2",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-01-26",
+    "diretor": "Steve Miner"
+  },
+  {
+    "titulo": "Friday the 13th Part III",
+    "data_de_lancamento": "1982",
+    "assistido_em": "2023-01-27",
+    "diretor": "Steve Miner"
+  },
+  {
+    "titulo": "A Nightmare on Elm Street 4: The Dream Master",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-01-27",
+    "diretor": "Renny Harlin"
+  },
+  {
+    "titulo": "[REC]",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-01-27",
+    "diretor": "Paco Plaza, Jaume Balagueró"
+  },
+  {
+    "titulo": "Friday the 13th: The Final Chapter",
+    "data_de_lancamento": "1984",
+    "assistido_em": "2023-01-31",
+    "diretor": "Joseph Zito"
+  },
+  {
+    "titulo": "Lake Mungo",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2023-01-31",
+    "diretor": "Joel Anderson",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9931006"
+  },
+  {
+    "titulo": "A Nightmare on Elm Street 5: The Dream Child",
+    "data_de_lancamento": "1989",
+    "assistido_em": "2023-02-01",
+    "diretor": "Stephen Hopkins"
+  },
+  {
+    "titulo": "Freddy's Dead: The Final Nightmare",
+    "data_de_lancamento": "1991",
+    "assistido_em": "2023-02-01",
+    "diretor": "Rachel Talalay"
+  },
+  {
+    "titulo": "Wes Craven's New Nightmare",
+    "data_de_lancamento": "1994",
+    "assistido_em": "2023-02-02",
+    "diretor": "Wes Craven"
+  },
+  {
+    "titulo": "A Nightmare on Elm Street",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2023-02-07",
+    "diretor": "Samuel Bayer"
+  },
+  {
+    "titulo": "It Follows",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2023-02-08",
+    "diretor": "David Robert Mitchell"
+  },
+  {
+    "titulo": "Les Yeux Sans Visage",
+    "data_de_lancamento": "1960",
+    "assistido_em": "2023-02-10",
+    "diretor": "Georges Franju"
+  },
+  {
+    "titulo": "Rick and Morty",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-02-11",
+    "temporada": 6,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Suspiria",
+    "data_de_lancamento": "1977",
+    "assistido_em": "2023-02-13",
+    "diretor": "Dario Argento"
+  },
+  {
+    "titulo": "The Evil Dead",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-02-13",
+    "diretor": "Sam Raimi"
+  },
+  {
+    "titulo": "Halloween 4: The Return of Michael Myers",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-02-14",
+    "diretor": "Dwight H. Little"
+  },
+  {
+    "titulo": "Friday the 13th: A New Beginning",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2023-02-14",
+    "diretor": "Danny Steinmann"
+  },
+  {
+    "titulo": "X",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-02-14",
+    "diretor": "Ti West",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9906363"
+  },
+  {
+    "titulo": "Watcher",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-02-15",
+    "diretor": "Chloe Okuno"
+  },
+  {
+    "titulo": "Fresh",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-02-16",
+    "diretor": "Mimi Cave"
+  },
+  {
+    "titulo": "Eraserhead",
+    "data_de_lancamento": "1977",
+    "assistido_em": "2023-02-17",
+    "diretor": "David Lynch"
+  },
+  {
+    "titulo": "Halloween 5 The Revenge of Michael Myers",
+    "data_de_lancamento": "1989",
+    "assistido_em": "2023-02-17",
+    "diretor": "Dominique Othenin-Girard"
+  },
+  {
+    "titulo": "Re-Animator",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2023-02-17",
+    "diretor": "Stuart Gordon"
+  },
+  {
+    "titulo": "Clueless",
+    "data_de_lancamento": "1995",
+    "assistido_em": "2023-02-18",
+    "diretor": "Amy Heckerling"
+  },
+  {
+    "titulo": "My Best Friend's Wedding",
+    "data_de_lancamento": "1997",
+    "assistido_em": "2023-02-18",
+    "diretor": "P. J. Hogan"
+  },
+  {
+    "titulo": "Ant-Man and the Wasp: Quantumania",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-02-18",
+    "diretor": "Peyton Reed"
+  },
+  {
+    "titulo": "Inside Jobs",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-02-19",
+    "temporada": 1,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Inside Jobs",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-02-20",
+    "temporada": 2,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Easy A",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2023-02-21",
+    "diretor": "Will Gluck"
+  },
+  {
+    "titulo": "Rosemary's Baby",
+    "data_de_lancamento": "1968",
+    "assistido_em": "2023-02-21",
+    "diretor": "Roman Polanski"
+  },
+  {
+    "titulo": "Metal Lords",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-02-21",
+    "diretor": "Peter Sollett"
+  },
+  {
+    "titulo": "Evil Dead II",
+    "data_de_lancamento": "1987",
+    "assistido_em": "2023-02-22",
+    "diretor": "Sam Raimi"
+  },
+  {
+    "titulo": "Halloween: The Curse of Michael Myers",
+    "data_de_lancamento": "1995",
+    "assistido_em": "2023-02-23",
+    "diretor": "Joe Chappelle"
+  },
+  {
+    "titulo": "Before I Wake",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2023-02-23",
+    "diretor": "Mike Flanagan"
+  },
+  {
+    "titulo": "Das Cabinet des Dr. Caligari",
+    "data_de_lancamento": "1920",
+    "assistido_em": "2023-02-24",
+    "diretor": "Robert Wiene"
+  },
+  {
+    "titulo": "The Night House",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2023-02-24",
+    "diretor": "David Bruckner"
+  },
+  {
+    "titulo": "Frankenstein",
+    "data_de_lancamento": "1931",
+    "assistido_em": "2023-02-25",
+    "diretor": "James Whale"
+  },
+  {
+    "titulo": "He's All That",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-02-26",
+    "diretor": "Mark Waters"
+  },
+  {
+    "titulo": "Friday the 13th Part VI: Jason Lives",
+    "data_de_lancamento": "1986",
+    "assistido_em": "2023-02-26",
+    "diretor": "Tom McLoughlin"
+  },
+  {
+    "titulo": "Poltergeist",
+    "data_de_lancamento": "1982",
+    "assistido_em": "2023-02-28",
+    "diretor": "Tobe Hooper"
+  },
+  {
+    "titulo": "Jacob's Ladder",
+    "data_de_lancamento": "1990",
+    "assistido_em": "2023-02-28",
+    "diretor": "Adrian Lyne"
+  },
+  {
+    "titulo": "Hereditary",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2023-03-01",
+    "diretor": "Ari Aster"
+  },
+  {
+    "titulo": "Barbarian",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-03-01",
+    "diretor": "Zach Cregger"
+  },
+  {
+    "titulo": "The Others",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2023-03-02",
+    "diretor": "Alejandro Amenábar",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9829854"
+  },
+  {
+    "titulo": "Bride of Frankenstein",
+    "data_de_lancamento": "1935",
+    "assistido_em": "2023-03-02",
+    "diretor": "James Whale"
+  },
+  {
+    "titulo": "The Killing of a Sacred Deer",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2023-03-02",
+    "diretor": "Yorgos Lanthimos"
+  },
+  {
+    "titulo": "Friday the 13th Part VII: The New Blood",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-03-03",
+    "diretor": "John Carl Buechler"
+  },
+  {
+    "titulo": "The Falcon and the Winter Soldier",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-03-04",
+    "temporada": 1,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Shang-Chi and the Legend of the Ten Rings",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-03-05",
+    "diretor": "Destin Cretton"
+  },
+  {
+    "titulo": "Bodies Bodies Bodies",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-03-06",
+    "diretor": "Halina Reijn"
+  },
+  {
+    "titulo": "The Sixth Sense",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2023-03-08",
+    "diretor": "M. Night Shyamalan",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw10085323"
+  },
+  {
+    "titulo": "Ready or Not",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-03-08",
+    "diretor": "Matt Bettinelli-Olpin, Tyler Gillett"
+  },
+  {
+    "titulo": "Black Christmas",
+    "data_de_lancamento": "1974",
+    "assistido_em": "2023-03-09",
+    "diretor": "Bob Clark",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9521083"
+  },
+  {
+    "titulo": "Spoorloos",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-03-09",
+    "diretor": "George Sluizer"
+  },
+  {
+    "titulo": "Carrie",
+    "data_de_lancamento": "1976",
+    "assistido_em": "2023-03-09",
+    "diretor": "Brian De Palma"
+  },
+  {
+    "titulo": "Scream",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-03-10",
+    "diretor": "Matt Bettinelli-Olpin, Tyler Gillett"
+  },
+  {
+    "titulo": "Spider-Man: Far From Home",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-03-12",
+    "diretor": "Jon Watts"
+  },
+  {
+    "titulo": "Martin",
+    "data_de_lancamento": "1977",
+    "assistido_em": "2023-03-13",
+    "diretor": "George A. Romero"
+  },
+  {
+    "titulo": "Scream VI",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-03-13",
+    "diretor": "Matt Bettinelli-Olpin, Tyler Gillett"
+  },
+  {
+    "titulo": "Don't Look Now",
+    "data_de_lancamento": "1973",
+    "assistido_em": "2023-03-14",
+    "diretor": "Nicolas Roeg"
+  },
+  {
+    "titulo": "Repulsion",
+    "data_de_lancamento": "1965",
+    "assistido_em": "2023-03-14",
+    "diretor": "Roman Polanski"
+  },
+  {
+    "titulo": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "data_de_lancamento": "1989",
+    "assistido_em": "2023-03-15",
+    "diretor": "Rob Hedden"
+  },
+  {
+    "titulo": "Cat People",
+    "data_de_lancamento": "1942",
+    "assistido_em": "2023-03-16",
+    "diretor": "Jacques Tourneur"
+  },
+  {
+    "titulo": "Fight Club",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2023-03-16",
+    "diretor": "David Fincher"
+  },
+  {
+    "titulo": "Ginger Snaps",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2023-03-17",
+    "diretor": "John Fawcett"
+  },
+  {
+    "titulo": "The Fog",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2023-03-17",
+    "diretor": "John Carpenter"
+  },
+  {
+    "titulo": "The Invitation",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-03-18",
+    "diretor": "Jessica M. Thompson"
+  },
+  {
+    "titulo": "Evil Dead",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2023-03-18",
+    "diretor": "Fede Álvarez"
+  },
+  {
+    "titulo": "Halloween H20: 20 Years Later",
+    "data_de_lancamento": "1998",
+    "assistido_em": "2023-03-20",
+    "diretor": "Steve Miner"
+  },
+  {
+    "titulo": "The Fly",
+    "data_de_lancamento": "1986",
+    "assistido_em": "2023-03-21",
+    "diretor": "David Cronenberg"
+  },
+  {
+    "titulo": "Carnival of Souls",
+    "data_de_lancamento": "1962",
+    "assistido_em": "2023-03-21",
+    "diretor": "Herk Harvey"
+  },
+  {
+    "titulo": "Les Diaboliques",
+    "data_de_lancamento": "1955",
+    "assistido_em": "2023-03-22",
+    "diretor": "Henri-Georges Clouzot"
+  },
+  {
+    "titulo": "Eternals",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-03-25",
+    "diretor": "Chloé Zhao"
+  },
+  {
+    "titulo": "It Chapter Two",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-03-29",
+    "diretor": "Andy Muschietti"
+  },
+  {
+    "titulo": "Hawkeye",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-04-07",
+    "temporada": 1,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Moon Knight",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-04-09",
+    "temporada": 1,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Ms. Marvel",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-04-24",
+    "temporada": 1,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Ijiranaide, Nagatoro-san",
+    "data_de_lancamento": "2021",
+    "iniciado_em": "2023-04-09",
+    "finalizado_em": "2023-04-26",
+    "temporada": 1,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Rings",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2023-05-02",
+    "diretor": "F. Javier Gutiérrez"
+  },
+  {
+    "titulo": "Evil Dead Rise",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-05-02",
+    "diretor": "Lee Cronin"
+  },
+  {
+    "titulo": "M3GAN",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-05-03",
+    "diretor": "Gerard Johnstone"
+  },
+  {
+    "titulo": "Firefly Lane",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-05-05",
+    "temporada": 2
+  },
+  {
+    "titulo": "Jason Goes to Hell: The Final Friday",
+    "data_de_lancamento": "1993",
+    "assistido_em": "2023-05-06",
+    "diretor": "Adam Marcus"
+  },
+  {
+    "titulo": "Jason X",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2023-05-06",
+    "diretor": "James Isaac"
+  },
+  {
+    "titulo": "Star Wars: Episode I - The Phantom Menace",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2023-05-06",
+    "diretor": "George Lucas"
+  },
+  {
+    "titulo": "Freddy vs. Jason",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2023-05-07",
+    "diretor": "Ronny Yu"
+  },
+  {
+    "titulo": "Friday the 13th",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-05-08",
+    "diretor": "Marcus Nispel"
+  },
+  {
+    "titulo": "Pearl",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-05-08",
+    "diretor": "Ti West",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9918744"
+  },
+  {
+    "titulo": "Guardians of the Galaxy Vol. 3",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-05-09",
+    "diretor": "James Gunn"
+  },
+  {
+    "titulo": "Halloween: Resurrection",
+    "data_de_lancamento": "2002",
+    "assistido_em": "2023-05-10",
+    "diretor": "Rick Rosenthal"
+  },
+  {
+    "titulo": "Hellraiser",
+    "data_de_lancamento": "1987",
+    "assistido_em": "2023-05-11",
+    "diretor": "Clive Barker",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9579862"
+  },
+  {
+    "titulo": "Hostel",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2023-05-11",
+    "diretor": "Eli Roth"
+  },
+  {
+    "titulo": "Freaks",
+    "data_de_lancamento": "1932",
+    "assistido_em": "2023-05-11",
+    "diretor": "Tod Browning"
+  },
+  {
+    "titulo": "Halloween",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2023-05-11",
+    "diretor": "David Gordon Green"
+  },
+  {
+    "titulo": "Halloween Kills",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-05-11",
+    "diretor": "David Gordon Green"
+  },
+  {
+    "titulo": "Halloween Ends",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-05-12",
+    "diretor": "David Gordon Green"
+  },
+  {
+    "titulo": "Vampyr",
+    "data_de_lancamento": "1932",
+    "assistido_em": "2023-05-14",
+    "diretor": "Carl Theodor Dreyer"
+  },
+  {
+    "titulo": "Fear Street Part One: 1994",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-05-14",
+    "diretor": "Leigh Janiak"
+  },
+  {
+    "titulo": "Fear Street Part Two: 1978",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-05-14",
+    "diretor": "Leigh Janiak"
+  },
+  {
+    "titulo": "Freaky Friday",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2023-05-14",
+    "diretor": "Mark Waters"
+  },
+  {
+    "titulo": "Saw II",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2023-05-15",
+    "diretor": "Darren Lynn Bousman"
+  },
+  {
+    "titulo": "Saw III",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2023-05-15",
+    "diretor": "Darren Lynn Bousman"
+  },
+  {
+    "titulo": "Haute Tension",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2023-05-15",
+    "diretor": "Alexandre Aja"
+  },
+  {
+    "titulo": "Fear Street Part Three: 1666",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-05-16",
+    "diretor": "Leigh Janiak"
+  },
+  {
+    "titulo": "The Descent",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2023-05-17",
+    "diretor": "Neil Marshall"
+  },
+  {
+    "titulo": "Phantasm",
+    "data_de_lancamento": "1979",
+    "assistido_em": "2023-05-17",
+    "diretor": "Don Coscarelli",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10042346"
+  },
+  {
+    "titulo": "The Omen",
+    "data_de_lancamento": "1976",
+    "assistido_em": "2023-05-19",
+    "diretor": "Richard Donner"
+  },
+  {
+    "titulo": "El Espinazo Del Diablo",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2023-05-20",
+    "diretor": "Guillermo del Toro"
+  },
+  {
+    "titulo": "The Perfect Man",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2023-05-21",
+    "diretor": "Mark Rosman"
+  },
+  {
+    "titulo": "The Old Dark House",
+    "data_de_lancamento": "1932",
+    "assistido_em": "2023-05-23",
+    "diretor": "James Whale"
+  },
+  {
+    "titulo": "Psycho",
+    "data_de_lancamento": "1960",
+    "assistido_em": "2023-05-23",
+    "diretor": "Alfred Hitchcock"
+  },
+  {
+    "titulo": "The Mist",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-05-23",
+    "diretor": "Frank Darabont"
+  },
+  {
+    "titulo": "Shôjo Jigoku Ichi Kyû Kyû Kyû",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2023-05-24",
+    "diretor": "Daisuke Yamanouchi"
+  },
+  {
+    "titulo": "Ōdishon",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2023-05-24",
+    "diretor": "Takashi Miike"
+  },
+  {
+    "titulo": "...E tu vivrai nel terrore! L'aldilà",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-05-24",
+    "diretor": "Lucio Fulci"
+  },
+  {
+    "titulo": "Ijiranaide, Nagatoro-san",
+    "data_de_lancamento": "2023",
+    "iniciado_em": "2023-04-29",
+    "finalizado_em": "2023-05-29",
+    "temporada": 2,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Possession",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-06-01",
+    "diretor": "Andrzej Żuławski"
+  },
+  {
+    "titulo": "The Thing",
+    "data_de_lancamento": "1982",
+    "assistido_em": "2023-06-07",
+    "diretor": "John Carpenter"
+  },
+  {
+    "titulo": "The Grudge",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2023-06-09",
+    "diretor": "Takashi Shimizu"
+  },
+  {
+    "titulo": "The Grudge 2",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2023-06-11",
+    "diretor": "Takashi Shimizu"
+  },
+  {
+    "titulo": "Kairo",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2023-06-12",
+    "diretor": "Kiyoshi Kurosawa"
+  },
+  {
+    "titulo": "Society",
+    "data_de_lancamento": "1989",
+    "assistido_em": "2023-06-12",
+    "diretor": "Brian Yuzna"
+  },
+  {
+    "titulo": "Never Have I Ever",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-06-12",
+    "temporada": 4,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Dracula",
+    "data_de_lancamento": "1958",
+    "assistido_em": "2023-06-13",
+    "diretor": "Terence Fisher"
+  },
+  {
+    "titulo": "Saw IV",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-06-13",
+    "diretor": "Darren Lynn Bousman"
+  },
+  {
+    "titulo": "28 Days Later",
+    "data_de_lancamento": "2002",
+    "assistido_em": "2023-06-13",
+    "diretor": "Danny Boyle"
+  },
+  {
+    "titulo": "The Grudge 3",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-06-14",
+    "diretor": "Toby Wilkins"
+  },
+  {
+    "titulo": "Saw V",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2023-06-14",
+    "diretor": "David Hackl"
+  },
+  {
+    "titulo": "Saw VI",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-06-14",
+    "diretor": "Kevin Greutert"
+  },
+  {
+    "titulo": "Saw 3D",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2023-06-14",
+    "diretor": "Kevin Greutert"
+  },
+  {
+    "titulo": "Jigsaw",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2023-06-15",
+    "diretor": "Michael Spierig, Peter Spierig"
+  },
+  {
+    "titulo": "Invasion of the Body Snatchers",
+    "data_de_lancamento": "1956",
+    "assistido_em": "2023-06-16",
+    "diretor": "Don Siegel"
+  },
+  {
+    "titulo": "Guinea Pig: Ginî Piggu - Akuma no Jikken",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2023-06-16",
+    "diretor": "Satoru Ogura"
+  },
+  {
+    "titulo": "Spider-Man: Across the Spider-Verse",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-06-17",
+    "diretor": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson"
+  },
+  {
+    "titulo": "Spiral: From the Book of Saw",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-06-18",
+    "diretor": "Darren Lynn Bousman"
+  },
+  {
+    "titulo": "You Get Me",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2023-06-18",
+    "diretor": "Brent Bonacorso"
+  },
+  {
+    "titulo": "Army of Darkness",
+    "data_de_lancamento": "1992",
+    "assistido_em": "2023-06-26",
+    "diretor": "Sam Raimi"
+  },
+  {
+    "titulo": "Beau is Afraid",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-06-26",
+    "diretor": "Ari Aster"
+  },
+  {
+    "titulo": "Insidious: The Red Door",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-07-06",
+    "diretor": "Patrick Wilson",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10343136"
+  },
+  {
+    "titulo": "Star Wars: Episode II - Attack of the Clones",
+    "data_de_lancamento": "2002",
+    "assistido_em": "2023-07-07",
+    "diretor": "George Lucas"
+  },
+  {
+    "titulo": "Star Wars: Episode III - Revenge of the Sith",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2023-07-09",
+    "diretor": "George Lucas"
+  },
+  {
+    "titulo": "Solo: A Star Wars Story",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2023-07-14",
+    "diretor": "Ron Howard"
+  },
+  {
+    "titulo": "10 Things I Hate About You",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2023-07-16",
+    "diretor": "Gil Junger"
+  },
+  {
+    "titulo": "Rogue One: A Star Wars Story",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2023-07-28",
+    "diretor": "Gareth Edwards"
+  },
+  {
+    "titulo": "Halloween",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-07-31",
+    "diretor": "Rob Zombie"
+  },
+  {
+    "titulo": "Uzaki-chan wa Asobitai!",
+    "data_de_lancamento": "2022",
+    "iniciado_em": "2023-06-01",
+    "finalizado_em": "2023-08-05",
+    "temporada": 2,
+    "quantidade_de_episodios": 13
+  },
+  {
+    "titulo": "Star Wars: Episode IV - A New Hope",
+    "data_de_lancamento": "1977",
+    "assistido_em": "2023-08-05",
+    "diretor": "George Lucas"
+  },
+  {
+    "titulo": "Star Wars: Episode V - The Empire Strike Backs",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2023-08-06",
+    "diretor": "Irvin Kershner"
+  },
+  {
+    "titulo": "Star Wars: Episode VI - Return of the Jedi",
+    "data_de_lancamento": "1983",
+    "assistido_em": "2023-08-06",
+    "diretor": "Richard Marquand"
+  },
+  {
+    "titulo": "Tokyo Ghoul",
+    "data_de_lancamento": "2014",
+    "iniciado_em": "2023-08-06",
+    "finalizado_em": "2023-08-17",
+    "temporada": 1,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Star Wars: Episode VII - The Force Awakens",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2023-08-28",
+    "diretor": "J. J Abrams"
+  },
+  {
+    "titulo": "Tokyo Ghoul: Root A",
+    "data_de_lancamento": "2015",
+    "iniciado_em": "2023-08-18",
+    "finalizado_em": "2023-08-29",
+    "temporada": 2,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Star Wars: Episode VII - The Last Jedi",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2023-09-03",
+    "diretor": "Rian Johnson"
+  },
+  {
+    "titulo": "12 Dates of Christmas",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-09-03",
+    "diretor": "James Hayman"
+  },
+  {
+    "titulo": "Star Wars: Episode IX - The Rise of Skywalker",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-09-07",
+    "diretor": "J. J Abrams"
+  },
+  {
+    "titulo": "Chainsaw Man",
+    "data_de_lancamento": "2022",
+    "iniciado_em": "2023-08-30",
+    "finalizado_em": "2023-09-10",
+    "temporada": 1,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "The Nun II",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-09-11",
+    "diretor": "Michael Chaves",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10316400"
+  },
+  {
+    "titulo": "Sen Inandir",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-09-17",
+    "diretor": "Murat Saraçoğlu, Evren Karabiyik Günaydin"
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2016",
+    "iniciado_em": "2023-09-10",
+    "finalizado_em": "2023-09-22",
+    "temporada": 1,
+    "quantidade_de_episodios": 13
+  },
+  {
+    "titulo": "The Strangers",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2023-09-25",
+    "diretor": "Bryan Bertino"
+  },
+  {
+    "titulo": "Der Goldene Handschuh",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2023-09-25",
+    "diretor": "Fatih Akin"
+  },
+  {
+    "titulo": "Requiem For a Dream",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2023-09-26",
+    "diretor": "Darren Aronofsky"
+  },
+  {
+    "titulo": "The House That Jack Built",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2023-09-26",
+    "diretor": "Lars von Trier"
+  },
+  {
+    "titulo": "Drag Me to Hell",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-09-28",
+    "diretor": "Sam Raimi"
+  },
+  {
+    "titulo": "Ginî Piggu 2: Chiniku no hana",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2023-10-02",
+    "diretor": "Hideshi Hino"
+  },
+  {
+    "titulo": "Blue Beetle",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-02",
+    "diretor": "Angel Manuel Soto"
+  },
+  {
+    "titulo": "Shutter",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2023-10-03",
+    "diretor": "Banjong Pisanthanakun, Parkpoom Wongpoom"
+  },
+  {
+    "titulo": "Sex Education",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-03",
+    "temporada": 4,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Saw X",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-04",
+    "diretor": "Kevin Greutert"
+  },
+  {
+    "titulo": "Creep",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2023-10-04",
+    "diretor": "Patrick Brice",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9366958"
+  },
+  {
+    "titulo": "The Last House on the Left",
+    "data_de_lancamento": "1972",
+    "assistido_em": "2023-10-05",
+    "diretor": "Wes Craven",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9366978"
+  },
+  {
+    "titulo": "Talk to Me",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-10-05",
+    "diretor": "Danny Philippou, Michael Philippou",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9366958"
+  },
+  {
+    "titulo": "Turning Red",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-10-06",
+    "diretor": "Domee Shi"
+  },
+  {
+    "titulo": "Videodrome",
+    "data_de_lancamento": "1983",
+    "assistido_em": "2023-10-07",
+    "diretor": "David Cronenberg",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9366987"
+  },
+  {
+    "titulo": "Disenchantment",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-08",
+    "temporada": 5,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "I Spit on Your Grave",
+    "data_de_lancamento": "1978",
+    "assistido_em": "2023-10-09",
+    "diretor": "Meir Zarchi",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9367055"
+  },
+  {
+    "titulo": "I Spit on Your Grave",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2023-10-10",
+    "diretor": "Steven R. Monroe",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9369809"
+  },
+  {
+    "titulo": "Ginî piggu 3: Senritsu! Shinanai otoko",
+    "data_de_lancamento": "1986",
+    "assistido_em": "2023-10-10",
+    "diretor": "Masayuki Kusumi",
+    "nota_pessoal": 2,
+    "review_link_imdb": "https://www.imdb.com/review/rw9369957"
+  },
+  {
+    "titulo": "Session 9",
+    "data_de_lancamento": "2001",
+    "assistido_em": "2023-10-10",
+    "diretor": "Brad Anderson",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9370780"
+  },
+  {
+    "titulo": "Halloween II",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-10-11",
+    "diretor": "Rob Zombie",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9371206"
+  },
+  {
+    "titulo": "Edward Scissorhands",
+    "data_de_lancamento": "1990",
+    "assistido_em": "2023-10-14",
+    "diretor": "Tim Burton"
+  },
+  {
+    "titulo": "Beetlejuice",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-10-15",
+    "diretor": "Tim Burton"
+  },
+  {
+    "titulo": "Trauma",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2023-10-16",
+    "diretor": "Lucio A. Rojas",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://imdb.com/review/rw9379939/"
+  },
+  {
+    "titulo": "Paranormal Activity",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-10-16",
+    "diretor": "Oren Peli",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9380415"
+  },
+  {
+    "titulo": "Incendies",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2023-10-16",
+    "diretor": "Denis Villeneuve"
+  },
+  {
+    "titulo": "Cheerleader Camp",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-10-17",
+    "diretor": "John Quinn",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9382024"
+  },
+  {
+    "titulo": "Sleepaway Camp",
+    "data_de_lancamento": "1983",
+    "assistido_em": "2023-10-19",
+    "diretor": "Robert Hiltzik",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9385322"
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2017",
+    "iniciado_em": "2023-09-24",
+    "finalizado_em": "2023-10-19",
+    "temporada": 2,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "Paranormal Activity 2",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2023-10-19",
+    "diretor": "Tod Williams",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9385720"
+  },
+  {
+    "titulo": "Paranormal Activity 3",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-10-19",
+    "diretor": "Ariel Schulman, Henry Joost",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9385771"
+  },
+  {
+    "titulo": "The Burning",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-10-20",
+    "diretor": "Tony Maylam",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9388866"
+  },
+  {
+    "titulo": "Paranormal Activity 4",
+    "data_de_lancamento": "2012",
+    "assistido_em": "2023-10-20",
+    "diretor": "Ariel Schulman, Henry Joost",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9389210"
+  },
+  {
+    "titulo": "Totally Killer",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-21",
+    "diretor": "Nahnatchka Khan",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9389245"
+  },
+  {
+    "titulo": "Big Mouth",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-22",
+    "temporada": 7,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "I Spit on Your Grave 2",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2023-10-23",
+    "diretor": "Steven R. Monroe",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9393302"
+  },
+  {
+    "titulo": "Paranormal Activity: The Marked Ones",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2023-10-23",
+    "diretor": "Christopher Landon",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9393715"
+  },
+  {
+    "titulo": "Paranormal Activity: The Ghost Dimension",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2023-10-24",
+    "diretor": "Gregory Plotkin",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9395372"
+  },
+  {
+    "titulo": "À l'intérieur",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-10-24",
+    "diretor": "Alexandre Bustillo, Julien Maury",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9395408"
+  },
+  {
+    "titulo": "Speak No Evil",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-10-25",
+    "diretor": "Christian Tafdrup",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9396693"
+  },
+  {
+    "titulo": "Rang Zong",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-10-25",
+    "diretor": "Banjong Pisanthanakun",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9397070"
+  },
+  {
+    "titulo": "Hermana Muerte",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-10-30",
+    "diretor": "Paco Plaza",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9411732"
+  },
+  {
+    "titulo": "The Hills Have Eyes",
+    "data_de_lancamento": "1977",
+    "assistido_em": "2023-10-31",
+    "diretor": "Wes Craven",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9411791"
+  },
+  {
+    "titulo": "Children of the Corn",
+    "data_de_lancamento": "1984",
+    "assistido_em": "2023-10-31",
+    "diretor": "Fritz Kiersch",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9415206"
+  },
+  {
+    "titulo": "Candyman",
+    "data_de_lancamento": "1992",
+    "assistido_em": "2023-10-31",
+    "diretor": "Bernard Rose",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9415247"
+  },
+  {
+    "titulo": "House of Wax",
+    "data_de_lancamento": "2005",
+    "assistido_em": "2023-10-31",
+    "diretor": "Jaume Collet-Serra",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9419616"
+  },
+  {
+    "titulo": "You're Next",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-10-31",
+    "diretor": "Adam Wingard",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9419648"
+  },
+  {
+    "titulo": "The Cabin in the Woods",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-10-31",
+    "diretor": "Drew Goddard",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9420650"
+  },
+  {
+    "titulo": "Paranormal Activity: Next of Kin",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-10-31",
+    "diretor": "William Eubank",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9420682"
+  },
+  {
+    "titulo": "Elite",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-01",
+    "temporada": 7,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Elemental",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-03",
+    "diretor": "Peter Sohn"
+  },
+  {
+    "titulo": "Antichrist",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-11-07",
+    "diretor": "Lars Von Trier",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9424602"
+  },
+  {
+    "titulo": "Profondo Rosso",
+    "data_de_lancamento": "1975",
+    "assistido_em": "2023-11-09",
+    "diretor": "Dario Argento",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9432279"
+  },
+  {
+    "titulo": "The Marvels",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-15",
+    "diretor": "Nia DaCosta"
+  },
+  {
+    "titulo": "Queen Charlotte: A Bridgerton Story",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-15",
+    "temporada": 1,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2018",
+    "iniciado_em": "2023-10-20",
+    "finalizado_em": "2023-11-16",
+    "temporada": 3,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "Infinity Pool",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-16",
+    "diretor": "Brandon Cronenberg",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9442956"
+  },
+  {
+    "titulo": "Best. Christmas. Ever!",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-18",
+    "diretor": "Mary Lambert"
+  },
+  {
+    "titulo": "I Believe In Santa",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-11-19",
+    "diretor": "Alex Ranarivelo"
+  },
+  {
+    "titulo": "Secret Invasion",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-20",
+    "temporada": 1,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "I Am Groot",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-11-20",
+    "temporada": 1,
+    "quantidade_de_episodios": 5
+  },
+  {
+    "titulo": "Christmas With You",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-11-20",
+    "diretor": "Gabriela Tagliavini"
+  },
+  {
+    "titulo": "A Kindhearted Christmas",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-11-20",
+    "diretor": "Alysse Leite-Rogers"
+  },
+  {
+    "titulo": "The Pope's Exorcist",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-21",
+    "diretor": "Julius Avery",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9452815"
+  },
+  {
+    "titulo": "Final Destination",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2023-11-23",
+    "diretor": "James Wong",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9459495"
+  },
+  {
+    "titulo": "Leo",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-24",
+    "diretor": "Robert Marianetti, Robert Smigel, David Wachtenheim"
+  },
+  {
+    "titulo": "Angel Falls Christmas",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-11-25",
+    "diretor": "Jerry Ciccoritti"
+  },
+  {
+    "titulo": "Christmas With the Kranks",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2023-11-25",
+    "diretor": "Joe Roth"
+  },
+  {
+    "titulo": "Final Destination 2",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2023-11-27",
+    "diretor": "David R. Ellis",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9462804"
+  },
+  {
+    "titulo": "Final Destination 3",
+    "data_de_lancamento": "2006",
+    "assistido_em": "2023-11-28",
+    "diretor": "James Wong",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9462810"
+  },
+  {
+    "titulo": "The Final Destination",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-11-28",
+    "diretor": "David R. Ellis",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9464465"
+  },
+  {
+    "titulo": "Final Destination 5",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-11-28",
+    "diretor": "Steven Quale",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9465723"
+  },
+  {
+    "titulo": "The Exorcist: Believer",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-29",
+    "diretor": "David Gordon Green",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9466707"
+  },
+  {
+    "titulo": "Cuando Acecha la Maldad",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2023-11-30",
+    "diretor": "Demián Rugna",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9473334"
+  },
+  {
+    "titulo": "Lisa, Lisa",
+    "data_de_lancamento": "1977",
+    "assistido_em": "2023-12-01",
+    "diretor": "Frederick R. Friedel",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9474733"
+  },
+  {
+    "titulo": "Back to the Future",
+    "data_de_lancamento": "1985",
+    "assistido_em": "2023-12-03",
+    "diretor": "Robert Zemeckis"
+  },
+  {
+    "titulo": "I Spit on Your Grave III: Vengeance Is Mine",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2023-12-04",
+    "diretor": "Richard Schenkman",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9474801"
+  },
+  {
+    "titulo": "Frontière(s)",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-12-05",
+    "diretor": "Xavier Gens",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9477436"
+  },
+  {
+    "titulo": "Låt den rätte komma in",
+    "data_de_lancamento": "2008",
+    "assistido_em": "2023-12-05",
+    "diretor": "Tomas Alfredson",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9477479"
+  },
+  {
+    "titulo": "Pumpkinhead",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-12-05",
+    "diretor": "Stan Winston",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9477541"
+  },
+  {
+    "titulo": "Don't Go in the Woods",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-12-07",
+    "diretor": "James Bryan",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw9481558"
+  },
+  {
+    "titulo": "The Changeling",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2023-12-07",
+    "diretor": "Peter Medak",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9486339"
+  },
+  {
+    "titulo": "Dead & Buried",
+    "data_de_lancamento": "1981",
+    "assistido_em": "2023-12-07",
+    "diretor": "Gary Sherman",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9487891"
+  },
+  {
+    "titulo": "Dead Ringers",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2023-12-07",
+    "diretor": "David Cronenberg",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9488822"
+  },
+  {
+    "titulo": "Wrong Turn",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2023-12-08",
+    "diretor": "Rob Schmidt",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9489434"
+  },
+  {
+    "titulo": "Wrong Turn 2: Dead End",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-12-10",
+    "diretor": "Joe Lynch",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9489954"
+  },
+  {
+    "titulo": "Wrong Turn 3: Left for Dead",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2023-12-10",
+    "diretor": "Declan O'Brien",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw9490150"
+  },
+  {
+    "titulo": "Wrong Turn 4: Bloody Beginnings",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2023-12-10",
+    "diretor": "Declan O'Brien",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9491094"
+  },
+  {
+    "titulo": "The Brood",
+    "data_de_lancamento": "1979",
+    "assistido_em": "2023-12-10",
+    "diretor": "David Cronenberg",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9491846"
+  },
+  {
+    "titulo": "The Amityville Horror",
+    "data_de_lancamento": "1979",
+    "assistido_em": "2023-12-10",
+    "diretor": "Stuart Rosenberg",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9491888"
+  },
+  {
+    "titulo": "Wrong Turn 5: Bloodlines",
+    "data_de_lancamento": "2012",
+    "assistido_em": "2023-12-11",
+    "diretor": "Declan O'Brien",
+    "nota_pessoal": 4,
+    "review_link_imdb": "https://www.imdb.com/review/rw9492006"
+  },
+  {
+    "titulo": "Wrong Turn 6: Last Resort",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2023-12-11",
+    "diretor": "Valeri Milev",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw9494810"
+  },
+  {
+    "titulo": "Subconscious Cruelty",
+    "data_de_lancamento": "2000",
+    "assistido_em": "2023-12-12",
+    "diretor": "Karim Hussain",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9494968"
+  },
+  {
+    "titulo": "Soft & Quiet",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2023-12-12",
+    "diretor": "Beth de Araujo",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9495090"
+  },
+  {
+    "titulo": "The Tenant",
+    "data_de_lancamento": "1976",
+    "assistido_em": "2023-12-13",
+    "diretor": "Roman Polanski",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw9496085"
+  },
+  {
+    "titulo": "God Told Me To",
+    "data_de_lancamento": "1976",
+    "assistido_em": "2023-12-13",
+    "diretor": "Larry Cohen",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9496364"
+  },
+  {
+    "titulo": "Wrong Turn",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-12-14",
+    "diretor": "Mike P. Nelson",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9497441"
+  },
+  {
+    "titulo": "Titane",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2023-12-14",
+    "diretor": "Julia Ducournau",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9498189"
+  },
+  {
+    "titulo": "Angst",
+    "data_de_lancamento": "1983",
+    "assistido_em": "2023-12-15",
+    "diretor": "Gerald Kargl",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9498770"
+  },
+  {
+    "titulo": "You Better Watch Out",
+    "data_de_lancamento": "1980",
+    "assistido_em": "2023-12-17",
+    "diretor": "Lewis Jackson",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9522595"
+  },
+  {
+    "titulo": "Silent Night, Deadly Night",
+    "data_de_lancamento": "1984",
+    "assistido_em": "2023-12-17",
+    "diretor": "Charles E. Sellier Jr.",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9522816"
+  },
+  {
+    "titulo": "P2",
+    "data_de_lancamento": "2007",
+    "assistido_em": "2023-12-17",
+    "diretor": "Franck Khalfoun",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw9523122"
+  },
+  {
+    "titulo": "Silent Night",
+    "data_de_lancamento": "2012",
+    "assistido_em": "2023-12-17",
+    "diretor": "Steven C. Miller",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw9539447"
+  },
+  {
+    "titulo": "Krampus",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2023-12-17",
+    "diretor": "Michael Dougherty",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9539719"
+  },
+  {
+    "titulo": "Better Watch Out",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2023-12-18",
+    "diretor": "Chris Peckover",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw9552817"
+  },
+  {
+    "titulo": "Ash vs Evil Dead",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2023-12-27",
+    "temporada": 1,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2010",
+    "temporada": 1,
+    "quantidade_de_episodios": 26
+  },
+  {
+    "titulo": "Adventure Time",
+    "data_de_lancamento": "2011",
+    "temporada": 2,
+    "quantidade_de_episodios": 26
+  }
+]

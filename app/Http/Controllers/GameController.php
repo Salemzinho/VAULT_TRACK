@@ -96,7 +96,7 @@ class GameController extends Controller
 
         $game = Game::findOrFail($id);
 
-        if($request->hasFile('banner')) {
+        if ($request->hasFile('banner')) {
             $banner = $request->file('banner');
             $extension = $banner->getClientOriginalExtension();
             $banner_name = strtolower(str_replace(' ', '-', $request->input('titulo'))) . '-' . $request->input('data_de_lancamento') . '.' . $extension;
@@ -119,7 +119,7 @@ class GameController extends Controller
     {
         $game = Game::findOrFail($id);
 
-        if($game->banner) {
+        if ($game->banner) {
             Storage::delete('producoes_audiovisuais/' . $game->banner);
         }
 

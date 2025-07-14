@@ -1,0 +1,544 @@
+[
+  {
+    "titulo": "XO, Kitty",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2025-01-03",
+    "temporada": 1,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Sonic the Hedgehog",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2025-01-03",
+    "diretor": "Jeff Fowler"
+  },
+  {
+    "titulo": "Abigail",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-01-07",
+    "diretor": "Tyler Gillett, Matt Bettinelli-Olpin",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10252320"
+  },
+  {
+    "titulo": "Scooby-Doo and the Legend of the Vampire",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2025-01-08",
+    "diretor": "Scott Jeralds"
+  },
+  {
+    "titulo": "Oddity",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-01-09",
+    "diretor": "Damian Mc Carthy",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10252399"
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2025-01-12",
+    "temporada": 1,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "Ghosts of Girlfriends Past",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2025-01-12",
+    "diretor": "Mark Waters"
+  },
+  {
+    "titulo": "Hell House LLC",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2025-01-14",
+    "diretor": "Stephen Cognetti",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10266742"
+  },
+  {
+    "titulo": "Creep 2",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2025-01-16",
+    "diretor": "Patrick Brice",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10266803"
+  },
+  {
+    "titulo": "XO, Kitty",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-01-19",
+    "temporada": 1,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Dýrið",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2025-01-20",
+    "diretor": "Valdimar Jóhannsson",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10275453"
+  },
+  {
+    "titulo": "Buffy the Vampire Slayer",
+    "data_de_lancamento": "1999",
+    "assistido_em": "2025-01-21",
+    "temporada": 3,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "Alien",
+    "data_de_lancamento": "1979",
+    "assistido_em": "2025-01-21",
+    "diretor": "Ridley Scott",
+    "nota_pessoal": 10,
+    "review_link_imdb": "https://www.imdb.com/review/rw10277212"
+  },
+  {
+    "titulo": "Apple & Onion",
+    "data_de_lancamento": "2018-2020",
+    "assistido_em": "2025-01-23",
+    "temporada": 1,
+    "quantidade_de_episodios": 40
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2025-01-23",
+    "temporada": 2,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "Nosferatu, eine Symphonie des Grauens",
+    "data_de_lancamento": "1922",
+    "assistido_em": "2025-01-24",
+    "diretor": "F. W. Murnau",
+    "nota_pessoal": 9,
+    "review_link_imdb": "https://www.imdb.com/review/rw10283350"
+  },
+  {
+    "titulo": "Nosferatu",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-01-24",
+    "diretor": "Robert Eggers",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10283413"
+  },
+  {
+    "titulo": "Love Again",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2025-01-26",
+    "diretor": "James C. Strouse"
+  },
+  {
+    "titulo": "The Conjuring",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2025-01-27",
+    "diretor": "James Wan",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10289676"
+  },
+  {
+    "titulo": "Annabelle",
+    "data_de_lancamento": "2014",
+    "assistido_em": "2025-01-27",
+    "diretor": "John R. Leonetti",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10289727"
+  },
+  {
+    "titulo": "The Conjuring 2",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2025-01-28",
+    "diretor": "James Wan",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10291796"
+  },
+  {
+    "titulo": "Annabelle: Creation",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2025-01-28",
+    "diretor": "David F. Sandberg",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10291836"
+  },
+  {
+    "titulo": "Esta Noite Encarnarei no Teu Cadáver",
+    "data_de_lancamento": "1967",
+    "assistido_em": "2025-01-29",
+    "diretor": "José Mojica Marins",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10303625"
+  },
+  {
+    "titulo": "The Nun",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2025-01-30",
+    "diretor": "Corin Hardy",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10303853"
+  },
+  {
+    "titulo": "Hunter X Hunter",
+    "data_de_lancamento": "2014",
+    "iniciado_em": "2024-02-26",
+    "finalizado_em": "2025-01-31",
+    "temporada": 1,
+    "quantidade_de_episodios": 148
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2025-01-31",
+    "temporada": 4,
+    "quantidade_de_episodios": 21
+  },
+  {
+    "titulo": "Annabelle Comes Home",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2025-02-04",
+    "diretor": "Michael Chaves",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10307499"
+  },
+  {
+    "titulo": "Night of the Demon",
+    "data_de_lancamento": "1957",
+    "assistido_em": "2025-02-05",
+    "diretor": "Jacques Tourneur",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10307596"
+  },
+  {
+    "titulo": "The Conjuring: The Devil Made Me Do It",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2025-02-05",
+    "diretor": "Michael Chaves",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10316324"
+  },
+  {
+    "titulo": "Ainda Estou Aqui",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-02-06",
+    "diretor": "Walter Salles"
+  },
+  {
+    "titulo": "Hei tai yang 731",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2025-02-07",
+    "diretor": "Tun-Fei Mou",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10317582"
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2025-02-09",
+    "temporada": 4,
+    "quantidade_de_episodios": 18
+  },
+  {
+    "titulo": "Night of the Living Dead",
+    "data_de_lancamento": "1968",
+    "assistido_em": "2025-02-10",
+    "diretor": "George A. Romero",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10322997"
+  },
+  {
+    "titulo": "Malignant",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2025-02-10",
+    "diretor": "James Wan",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10329756"
+  },
+  {
+    "titulo": "Doctor Sleep",
+    "data_de_lancamento": "2019",
+    "assistido_em": "2025-02-12",
+    "diretor": "Mike Flanagan",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10329826"
+  },
+  {
+    "titulo": "Dead of Night",
+    "data_de_lancamento": "1945",
+    "assistido_em": "2025-02-13",
+    "diretor": "Alberto Cavalcanti, Robert Hamer, Charles Crichton & Basil Dearden",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10329917"
+  },
+  {
+    "titulo": "Onibaba",
+    "data_de_lancamento": "1964",
+    "assistido_em": "2025-02-14",
+    "diretor": "Kaneto Shindō",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10329984"
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2022",
+    "assistido_em": "2025-02-16",
+    "temporada": 5,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "I Tre Volti Della Paura",
+    "data_de_lancamento": "1963",
+    "assistido_em": "2025-02-17",
+    "diretor": "Mario Bava",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10331576"
+  },
+  {
+    "titulo": "Insidious",
+    "data_de_lancamento": "2010",
+    "assistido_em": "2025-02-17",
+    "diretor": "James Wan",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10335028"
+  },
+  {
+    "titulo": "Insidious: Chapter 2",
+    "data_de_lancamento": "2013",
+    "assistido_em": "2025-02-17",
+    "diretor": "James Wan",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10331629"
+  },
+  {
+    "titulo": "The Haunting",
+    "data_de_lancamento": "1963",
+    "assistido_em": "2025-02-18",
+    "diretor": "Robert Wise",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10335105"
+  },
+  {
+    "titulo": "Insidious: Chapter 3",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2025-02-18",
+    "diretor": "Leigh Whannell",
+    "nota_pessoal": 5,
+    "review_link_imdb": "https://www.imdb.com/review/rw10335438"
+  },
+  {
+    "titulo": "Insidious: The Last Key",
+    "data_de_lancamento": "2018",
+    "assistido_em": "2025-02-18",
+    "diretor": "Adam Robitel",
+    "nota_pessoal": 6,
+    "review_link_imdb": "https://www.imdb.com/review/rw10342785"
+  },
+  {
+    "titulo": "Tenebre",
+    "data_de_lancamento": "1982",
+    "assistido_em": "2025-02-19",
+    "diretor": "Dario Argento",
+    "nota_pessoal": 7,
+    "review_link_imdb": "https://www.imdb.com/review/rw10343465"
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2025-02-22",
+    "temporada": 6,
+    "quantidade_de_episodios": 22
+  },
+  {
+    "titulo": "Boku no Hero Academia",
+    "data_de_lancamento": "2024",
+    "iniciado_em": "2025-02-01",
+    "finalizado_em": "2025-02-23",
+    "temporada": 7,
+    "quantidade_de_episodios": 21
+  },
+  {
+    "titulo": "Young Sheldon",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-02-24",
+    "temporada": 7,
+    "quantidade_de_episodios": 14
+  },
+  {
+    "titulo": "Faces of Death",
+    "data_de_lancamento": "1978",
+    "assistido_em": "2025-02-24",
+    "diretor": "John Alan Schwartz",
+    "nota_pessoal": 3,
+    "review_link_imdb": "https://www.imdb.com/review/rw10345390"
+  },
+  {
+    "titulo": "Uptown Girls",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2025-02-28",
+    "diretor": "Boaz Yakin"
+  },
+  {
+    "titulo": "Scooby-Doo! and the Loch Ness Monster",
+    "data_de_lancamento": "2004",
+    "assistido_em": "2025-02-28",
+    "diretor": "Scott Jeralds, Joe Sichta"
+  },
+  {
+    "titulo": "Elvira: Mistress of the Dark",
+    "data_de_lancamento": "1988",
+    "assistido_em": "2025-02-28",
+    "diretor": "James Signorelli"
+  },
+  {
+    "titulo": "Scooby-Doo and the Monster of Mexico",
+    "data_de_lancamento": "2003",
+    "assistido_em": "2025-03-02",
+    "diretor": "Scott Jeralds"
+  },
+  {
+    "titulo": "Kimetsu no Yaiba",
+    "data_de_lancamento": "2024",
+    "iniciado_em": "2025-02-02",
+    "finalizado_em": "2025-03-03",
+    "temporada": 4,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Anora",
+    "data_de_lancamento": "2024",
+    "assistido_em": "2025-03-08",
+    "diretor": "Sean Barker"
+  },
+  {
+    "titulo": "Adventure Time: Fionna & Cake",
+    "data_de_lancamento": "2023",
+    "assistido_em": "2025-03-09",
+    "temporada": 1,
+    "quantidade_de_episodios": 8
+  },
+  {
+    "titulo": "Yes Day",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2025-03-09",
+    "diretor": "Miguel Arteta"
+  },
+  {
+    "titulo": "Häxan, or Witchcraft Through the Ages",
+    "data_de_lancamento": "1922",
+    "assistido_em": "2025-03-10",
+    "diretor": "Benjamin Christensen",
+    "nota_pessoal": 8,
+    "review_link_imdb": "https://www.imdb.com/review/rw10446906"
+  },
+  {
+    "titulo": "American Horror Story",
+    "data_de_lancamento": "2011",
+    "assistido_em": "2025-03-11",
+    "temporada": 1,
+    "quantidade_de_episodios": 12
+  },
+  {
+    "titulo": "Apple & Onion",
+    "data_de_lancamento": "2021",
+    "assistido_em": "2025-03-12",
+    "temporada": 2,
+    "quantidade_de_episodios": 36
+  },
+  {
+    "titulo": "I Know What You Did Last Summer",
+    "data_de_lancamento": "1997",
+    "assistido_em": "2025-03-12",
+    "diretor": "Jim Gillespie"
+  },
+  {
+    "titulo": "Hubie Halloween",
+    "data_de_lancamento": "2020",
+    "assistido_em": "2025-03-16",
+    "diretor": "Steven Brill"
+  },
+  {
+    "titulo": "Battle of the Sexes",
+    "data_de_lancamento": "2017",
+    "assistido_em": "2025-03-16",
+    "diretor": "Jonathan Dayton, Valerie Faris"
+  },
+  {
+    "titulo": "Aliens",
+    "data_de_lancamento": "1986",
+    "assistido_em": "2025-03-17",
+    "diretor": "James Cameron"
+  },
+  {
+    "titulo": "Cyberpunk: Edgerunners",
+    "data_de_lancamento": "2022",
+    "iniciado_em": "2025-03-03",
+    "finalizado_em": "2025-03-17",
+    "temporada": 1,
+    "quantidade_de_episodios": 10
+  },
+  {
+    "titulo": "Melancholie der Engel",
+    "data_de_lancamento": "2009",
+    "assistido_em": "2025-03-19",
+    "diretor": "Marian Dora"
+  },
+  {
+    "titulo": "Invasion of the Body Snatchers",
+    "data_de_lancamento": "1978",
+    "assistido_em": "2025-03-27",
+    "diretor": "Philip Kaufman"
+  },
+  {
+    "titulo": "Steven Universe",
+    "data_de_lancamento": "2015",
+    "assistido_em": "2025-03-28",
+    "temporada": 1,
+    "quantidade_de_episodios": 52
+  },
+  {
+    "titulo": "The Life List",
+    "data_de_lancamento": "2025",
+    "assistido_em": "2025-03-28",
+    "diretor": "Adam Brooks"
+  },
+  {
+    "titulo": "Steven Universe",
+    "data_de_lancamento": "2015-2016",
+    "assistido_em": "2025-04-06",
+    "temporada": 2,
+    "quantidade_de_episodios": 26
+  },
+  {
+    "titulo": "Steven Universe",
+    "data_de_lancamento": "2016",
+    "assistido_em": "2025-04-18",
+    "temporada": 3,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "How to Sell Drugs Online (Fast)",
+    "data_de_lancamento": "2025",
+    "assistido_em": "2025-04-19",
+    "temporada": 4,
+    "quantidade_de_episodios": 6
+  },
+  {
+    "titulo": "Companion",
+    "data_de_lancamento": "2025",
+    "assistido_em": "2025-04-22",
+    "diretor": "Drew Hancock"
+  },
+  {
+    "titulo": "Steven Universe",
+    "data_de_lancamento": "2016-2017",
+    "assistido_em": "2025-04-27",
+    "temporada": 4,
+    "quantidade_de_episodios": 25
+  },
+  {
+    "titulo": "The Marvelous Misadventures of Flapjack",
+    "data_de_lancamento": "2008-2009",
+    "assistido_em": "2025-04-29",
+    "temporada": 1,
+    "quantidade_de_episodios": 20
+  }
+]
